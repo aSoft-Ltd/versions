@@ -1,6 +1,7 @@
 [versions]
-agp = "7.0.1"
+agp = "7.3.0" # although our gradle version supports agp 7.4.0, it is not supported by our current IDE
 lifecycle = "2.4.0"
+compile-sdk = "33"
 
 [libraries]
 lifecycle-viewmodel-ktx = { module = "androidx.lifecycle:lifecycle-viewmodel-ktx", version.ref = "lifecycle" }
