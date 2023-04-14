@@ -1,5 +1,5 @@
 [versions]
-agp = "7.4.0" # although our gradle version supports agp 7.4.0, it is not supported by our current IDE
+agp = "7.4.0"
 lifecycle = "2.4.0"
 compile-sdk = "33"
 
