@@ -1,27 +1,27 @@
 [versions]
-root = "2.0.13"
+root = "2.0.14"
 
 [libraries]
 
-cache-api = { module = "tz.co.asoft:cache-api", version.ref = "root" }
-cache-file = { module = "tz.co.asoft:cache-file", version.ref = "root" }
-cache-browser = { module = "tz.co.asoft:cache-browser", version.ref = "root" }
-cache-mock = { module = "tz.co.asoft:cache-mock", version.ref = "root" }
-cache-react-native = { module = "tz.co.asoft:cache-react-native", version.ref = "root" }
+keep-api = { module = "tz.co.asoft:keep-api", version.ref = "root" }
+keep-file = { module = "tz.co.asoft:keep-file", version.ref = "root" }
+keep-browser = { module = "tz.co.asoft:keep-browser", version.ref = "root" }
+keep-mock = { module = "tz.co.asoft:keep-mock", version.ref = "root" }
+keep-react-native = { module = "tz.co.asoft:keep-react-native", version.ref = "root" }
 
 kash-currency = { module = "tz.co.asoft:kash-currency", version.ref = "root" }
 kash-money = { module = "tz.co.asoft:kash-money", version.ref = "root" }
 
-koncurrent-primitives-core = { module = "tz.co.asoft:koncurrent-primitives-core", version.ref = "root" }
-koncurrent-primitives-coroutines = { module = "tz.co.asoft:koncurrent-primitives-coroutines", version.ref = "root" }
-koncurrent-primitives-mock = { module = "tz.co.asoft:koncurrent-primitives-mock", version.ref = "root" }
+koncurrent-executors-core = { module = "tz.co.asoft:koncurrent-executors-core", version.ref = "root" }
+koncurrent-executors-coroutines = { module = "tz.co.asoft:koncurrent-executors-coroutines", version.ref = "root" }
+koncurrent-executors-mock = { module = "tz.co.asoft:koncurrent-executors-mock", version.ref = "root" }
 
 koncurrent-later-core = { module = "tz.co.asoft:koncurrent-later-core", version.ref = "root" }
 koncurrent-later-test = { module = "tz.co.asoft:koncurrent-later-test", version.ref = "root" }
 koncurrent-later-coroutines = { module = "tz.co.asoft:koncurrent-later-coroutines", version.ref = "root" }
 
-expect-core = { module = "tz.co.asoft:expect-core", version.ref = "root" }
-expect-coroutines = { module = "tz.co.asoft:expect-coroutines", version.ref = "root" }
+kommander-core = { module = "tz.co.asoft:kommander-core", version.ref = "root" }
+kommander-coroutines = { module = "tz.co.asoft:kommander-coroutines", version.ref = "root" }
 
 identifier-core = { module = "tz.co.asoft:identifier-core", version.ref = "root" }
 identifier-generators = { module = "tz.co.asoft:identifier-generators", version.ref = "root" }
