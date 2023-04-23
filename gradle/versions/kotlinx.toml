@@ -1,6 +1,6 @@
 [versions]
 atomicfu = "0.20.2" # https://maven.pkg.jetbrains.space/kotlin/p/wasm/experimental/org/jetbrains/kotlinx/atomicfu/
-coroutines = "1.7.0-Beta" # https://maven.pkg.jetbrains.space/kotlin/p/wasm/experimental/org/jetbrains/kotlinx/
+coroutines = "1.7.0-RC" # https://maven.pkg.jetbrains.space/kotlin/p/wasm/experimental/org/jetbrains/kotlinx/
 serialization = "1.5.0" # "1.4.1"	
 datetime = "0.4.0"
 ktoml = "0.4.0"
