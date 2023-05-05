@@ -1,6 +1,6 @@
 [versions]
 staging = "0.22.0"
-publish = "1.1.0"
+publish = "1.3.0"
 
 [libraries]
 gradle-plugin-staging = { module = "io.codearte.gradle.nexus:gradle-nexus-staging-plugin", version.ref = "staging" }
