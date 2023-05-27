@@ -1,10 +1,12 @@
 [versions]
-bom = "1.0.0-pre.480"
+#bom = "1.0.0-pre.480"
+bom = "1.0.0-pre.554"
 
 [libraries]
 bom = { module = "org.jetbrains.kotlin-wrappers:kotlin-wrappers-bom", version.ref = "bom" }
 extension = { module = "org.jetbrains.kotlin-wrappers:kotlin-extensions" }
 react-core = { module = "org.jetbrains.kotlin-wrappers:kotlin-react-core" }
+react = { module = "org.jetbrains.kotlin-wrappers:kotlin-react" }
 react-dom-new = { module = "org.jetbrains.kotlin-wrappers:kotlin-react-dom" }
 router-dom = { module = "org.jetbrains.kotlin-wrappers:kotlin-react-router-dom" }
 css = { module = "org.jetbrains.kotlin-wrappers:kotlin-css" }
