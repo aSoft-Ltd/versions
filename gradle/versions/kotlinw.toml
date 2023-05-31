@@ -1,6 +1,7 @@
 [versions]
 #bom = "1.0.0-pre.480"
 bom = "1.0.0-pre.554"
+react-types="^18.1.4"
 
 [libraries]
 bom = { module = "org.jetbrains.kotlin-wrappers:kotlin-wrappers-bom", version.ref = "bom" }
