@@ -1,0 +1,15 @@
+# https://github.com/DevSrSouza/compose-icons
+[versions]
+icons = "1.1.0"
+
+[libraries]
+icons-cssGg = { module = "br.com.devsrsouza.compose.icons:css-gg", version.ref = "icons" }
+icons-weather = { module = "br.com.devsrsouza.compose.icons:erikflowers-weather-icons", version.ref = "icons" }
+icons-eva = { module = "br.com.devsrsouza.compose.icons:eva-icons", version.ref = "icons" }
+icons-feather = { module = "br.com.devsrsouza.compose.icons:feather", version.ref = "icons" }
+icons-awesome-font = { module = "br.com.devsrsouza.compose.icons:font-awesome", version.ref = "icons" }
+icons-awesome-line = { module = "br.com.devsrsouza.compose.icons:line-awesome", version.ref = "icons" }
+icons-linea = { module = "br.com.devsrsouza.compose.icons:linea", version.ref = "icons" }
+icons-octicons = { module = "br.com.devsrsouza.compose.icons:octicons", version.ref = "icons" }
+icons-simple = { module = "br.com.devsrsouza.compose.icons:simple-icons", version.ref = "icons" }
+icons-tabler = { module = "br.com.devsrsouza.compose.icons:tabler-icons", version.ref = "icons" }
