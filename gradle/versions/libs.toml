@@ -53,6 +53,19 @@ cinematic-scene-core = { module = "tz.co.asoft:cinematic-scene-core", version.re
 
 kronecker-core = { module = "tz.co.asoft:kronecker-core", version.ref = "asoft" }
 
+symphony-paginator = { module = "tz.co.asoft:symphony-paginator", version.ref = "asoft" }
+symphony-selector = { module = "tz.co.asoft:symphony-selector", version.ref = "asoft" }
+symphony-actions = { module = "tz.co.asoft:symphony-actions", version.ref = "asoft" }
+symphony-table = { module = "tz.co.asoft:symphony-table", version.ref = "asoft" }
+symphony-list = { module = "tz.co.asoft:symphony-list", version.ref = "asoft" }
+symphony-collections = { module = "tz.co.asoft:symphony-collections", version.ref = "asoft" }
+symphony-input-core = { module = "tz.co.asoft:symphony-input-core", version.ref = "asoft" }
+symphony-input-text = { module = "tz.co.asoft:symphony-input-text", version.ref = "asoft" }
+symphony-input-number = { module = "tz.co.asoft:symphony-input-number", version.ref = "asoft" }
+symphony-input-choice = { module = "tz.co.asoft:symphony-input-choice", version.ref = "asoft" }
+symphony-input-list = { module = "tz.co.asoft:symphony-input-list", version.ref = "asoft" }
+symphony-input-dialog = { module = "tz.co.asoft:symphony-input-dialog", version.ref = "asoft" }
+
 epsilon-core = { module = "tz.co.asoft:epsilon-core", version.ref = "asoft" }
 epsilon-fake = { module = "tz.co.asoft:epsilon-fake", version.ref = "asoft" }
 epsilon-file = { module = "tz.co.asoft:epsilon-file", version.ref = "asoft" }
@@ -81,7 +94,10 @@ asterina-text = { module = "tz.co.asoft:asterina-text", version.ref = "asoft" }
 asterina-brand = { module = "tz.co.asoft:asterina-brand", version.ref = "asoft" }
 
 identifier-core = { module = "tz.co.asoft:identifier-core", version.ref = "asoft" }
-identifier-generators = { module = "tz.co.asoft:identifier-generators", version.ref = "asoft" }
+identifier-comm = { module = "tz.co.asoft:identifier-comm", version.ref = "asoft" }
+identifier-legal-dtos = { module = "tz.co.asoft:identifier-legal-dtos", version.ref = "asoft" }
+identifier-legal-presenters = { module = "tz.co.asoft:identifier-legal-presenters", version.ref = "asoft" }
+identifier-legal-sdk-client-core = { module = "tz.co.asoft:identifier-legal-sdk-client-core", version.ref = "asoft" }
 
 [plugins]
 library = { id = "tz.co.asoft.library", version.ref = "asoft" }
