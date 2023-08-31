@@ -1,0 +1,44 @@
+[versions]
+asoft = "3.0.0"
+
+[libraries]
+kommander-core = { module = "tz.co.asoft:kommander-core", version.ref = "asoft" }
+kommander-coroutines = { module = "tz.co.asoft:kommander-coroutines", version.ref = "asoft" }
+
+asterina-color-core = { module = "tz.co.asoft:asterina-color-core", version.ref = "asoft" }
+asterina-color-compose = { module = "tz.co.asoft:asterina-color-compose", version.ref = "asoft" }
+asterina-size = { module = "tz.co.asoft:asterina-size", version.ref = "asoft" }
+asterina-base = { module = "tz.co.asoft:asterina-base", version.ref = "asoft" }
+asterina-text = { module = "tz.co.asoft:asterina-text", version.ref = "asoft" }
+asterina-brand = { module = "tz.co.asoft:asterina-brand", version.ref = "asoft" }
+
+keep-api = { module = "tz.co.asoft:keep-api", version.ref = "asoft" }
+keep-file = { module = "tz.co.asoft:keep-file", version.ref = "asoft" }
+keep-browser = { module = "tz.co.asoft:keep-browser", version.ref = "asoft" }
+keep-mock = { module = "tz.co.asoft:keep-mock", version.ref = "asoft" }
+keep-react-native = { module = "tz.co.asoft:keep-react-native", version.ref = "asoft" }
+
+kash-currency = { module = "tz.co.asoft:kash-currency", version.ref = "asoft" }
+kash-money = { module = "tz.co.asoft:kash-money", version.ref = "asoft" }
+
+koncurrent-executors-core = { module = "tz.co.asoft:koncurrent-executors-core", version.ref = "asoft" }
+koncurrent-executors-coroutines = { module = "tz.co.asoft:koncurrent-executors-coroutines", version.ref = "asoft" }
+koncurrent-executors-mock = { module = "tz.co.asoft:koncurrent-executors-mock", version.ref = "asoft" }
+
+koncurrent-later-core = { module = "tz.co.asoft:koncurrent-later-core", version.ref = "asoft" }
+koncurrent-later-test = { module = "tz.co.asoft:koncurrent-later-test", version.ref = "asoft" }
+koncurrent-later-coroutines = { module = "tz.co.asoft:koncurrent-later-coroutines", version.ref = "asoft" }
+
+identifier-core = { module = "tz.co.asoft:identifier-core", version.ref = "asoft" }
+identifier-generators = { module = "tz.co.asoft:identifier-generators", version.ref = "asoft" }
+
+live-core = { module = "tz.co.asoft:live-core", version.ref = "asoft" }
+live-react = { module = "tz.co.asoft:live-react", version.ref = "asoft" }
+live-test = { module = "tz.co.asoft:live-test", version.ref = "asoft" }
+
+viewmodel-core = { module = "tz.co.asoft:viewmodel-core", version.ref = "asoft" }
+
+[plugins]
+library = { id = "tz.co.asoft.library", version.ref = "asoft" }
+applikation = { id = "tz.co.asoft.applikation", version.ref = "asoft" }
+deploy = { id = "tz.co.asoft.deploy", version.ref = "asoft" }
