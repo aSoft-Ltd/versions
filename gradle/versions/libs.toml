@@ -53,6 +53,14 @@ cinematic-scene-core = { module = "tz.co.asoft:cinematic-scene-core", version.re
 
 kronecker-core = { module = "tz.co.asoft:kronecker-core", version.ref = "asoft" }
 
+epsilon-core = { module = "tz.co.asoft:epsilon-core", version.ref = "asoft" }
+epsilon-fake = { module = "tz.co.asoft:epsilon-fake", version.ref = "asoft" }
+epsilon-file = { module = "tz.co.asoft:epsilon-file", version.ref = "asoft" }
+epsilon-network-ktor = { module = "tz.co.asoft:epsilon-file", version.ref = "asoft" }
+
+krono-api = { module = "tz.co.asoft:krono-api", version.ref = "asoft" }
+krono-kotlinx = { module = "tz.co.asoft:krono-kotlinx", version.ref = "asoft" }
+
 captain-url = { module = "tz.co.asoft:captain-url", version.ref = "asoft" }
 captain-navigator-api = { module = "tz.co.asoft:captain-navigator-api", version.ref = "asoft" }
 captain-navigator-basic = { module = "tz.co.asoft:captain-navigator-basic", version.ref = "asoft" }
