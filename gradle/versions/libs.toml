@@ -51,6 +51,8 @@ cinematic-live-react = { module = "tz.co.asoft:cinematic-live-react", version.re
 cinematic-live-test = { module = "tz.co.asoft:cinematic-live-test", version.ref = "asoft" }
 cinematic-scene-core = { module = "tz.co.asoft:cinematic-scene-core", version.ref = "asoft" }
 
+kronecker-core = { module = "tz.co.asoft:kronecker-core", version.ref = "asoft" }
+
 captain-url = { module = "tz.co.asoft:captain-url", version.ref = "asoft" }
 captain-navigator-api = { module = "tz.co.asoft:captain-navigator-api", version.ref = "asoft" }
 captain-navigator-basic = { module = "tz.co.asoft:captain-navigator-basic", version.ref = "asoft" }
