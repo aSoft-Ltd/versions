@@ -23,12 +23,8 @@ koncurrent-later-test = { module = "tz.co.asoft:koncurrent-later-test", version.
 koncurrent-later-coroutines = { module = "tz.co.asoft:koncurrent-later-coroutines", version.ref = "asoft" }
 koncurrent-later-react = { module = "tz.co.asoft:koncurrent-later-react", version.ref = "asoft" }
 
-cinematic-live-core = { module = "tz.co.asoft:cinematic-live-core", version.ref = "asoft" }
-cinematic-live-compose = { module = "tz.co.asoft:cinematic-live-compose", version.ref = "asoft" }
-cinematic-live-kollections = { module = "tz.co.asoft:cinematic-live-kollections", version.ref = "asoft" }
-cinematic-live-react = { module = "tz.co.asoft:cinematic-live-react", version.ref = "asoft" }
-cinematic-live-test = { module = "tz.co.asoft:cinematic-live-test", version.ref = "asoft" }
-cinematic-scene-core = { module = "tz.co.asoft:cinematic-scene-core", version.ref = "asoft" }
+neat-validation = { module = "tz.co.asoft:neat-validation", version.ref = "asoft" }
+neat-formatting = { module = "tz.co.asoft:neat-formatting", version.ref = "asoft" }
 
 keep-api = { module = "tz.co.asoft:keep-api", version.ref = "asoft" }
 keep-file = { module = "tz.co.asoft:keep-file", version.ref = "asoft" }
@@ -39,6 +35,13 @@ keep-react-native = { module = "tz.co.asoft:keep-react-native", version.ref = "a
 lexi-api = { module = "tz.co.asoft:lexi-api", version.ref = "asoft" }
 lexi-file = { module = "tz.co.asoft:lexi-file", version.ref = "asoft" }
 lexi-console = { module = "tz.co.asoft:lexi-console", version.ref = "asoft" }
+
+cinematic-live-core = { module = "tz.co.asoft:cinematic-live-core", version.ref = "asoft" }
+cinematic-live-compose = { module = "tz.co.asoft:cinematic-live-compose", version.ref = "asoft" }
+cinematic-live-kollections = { module = "tz.co.asoft:cinematic-live-kollections", version.ref = "asoft" }
+cinematic-live-react = { module = "tz.co.asoft:cinematic-live-react", version.ref = "asoft" }
+cinematic-live-test = { module = "tz.co.asoft:cinematic-live-test", version.ref = "asoft" }
+cinematic-scene-core = { module = "tz.co.asoft:cinematic-scene-core", version.ref = "asoft" }
 
 captain-url = { module = "tz.co.asoft:captain-url", version.ref = "asoft" }
 captain-navigator-api = { module = "tz.co.asoft:captain-navigator-api", version.ref = "asoft" }
