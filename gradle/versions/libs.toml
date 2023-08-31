@@ -36,6 +36,14 @@ lexi-api = { module = "tz.co.asoft:lexi-api", version.ref = "asoft" }
 lexi-file = { module = "tz.co.asoft:lexi-file", version.ref = "asoft" }
 lexi-console = { module = "tz.co.asoft:lexi-console", version.ref = "asoft" }
 
+kash-currency = { module = "tz.co.asoft:kash-currency", version.ref = "asoft" }
+kash-cents = { module = "tz.co.asoft:kash-cents", version.ref = "asoft" }
+kash-money = { module = "tz.co.asoft:kash-money", version.ref = "asoft" }
+
+geo-core = { module = "tz.co.asoft:geo-core", version.ref = "asoft" }
+geo-languages = { module = "tz.co.asoft:geo-languages", version.ref = "asoft" }
+geo-countries = { module = "tz.co.asoft:geo-countries", version.ref = "asoft" }
+
 cinematic-live-core = { module = "tz.co.asoft:cinematic-live-core", version.ref = "asoft" }
 cinematic-live-compose = { module = "tz.co.asoft:cinematic-live-compose", version.ref = "asoft" }
 cinematic-live-kollections = { module = "tz.co.asoft:cinematic-live-kollections", version.ref = "asoft" }
@@ -59,9 +67,6 @@ asterina-size = { module = "tz.co.asoft:asterina-size", version.ref = "asoft" }
 asterina-base = { module = "tz.co.asoft:asterina-base", version.ref = "asoft" }
 asterina-text = { module = "tz.co.asoft:asterina-text", version.ref = "asoft" }
 asterina-brand = { module = "tz.co.asoft:asterina-brand", version.ref = "asoft" }
-
-kash-currency = { module = "tz.co.asoft:kash-currency", version.ref = "asoft" }
-kash-money = { module = "tz.co.asoft:kash-money", version.ref = "asoft" }
 
 identifier-core = { module = "tz.co.asoft:identifier-core", version.ref = "asoft" }
 identifier-generators = { module = "tz.co.asoft:identifier-generators", version.ref = "asoft" }
