@@ -18,11 +18,17 @@ kase-core = { module = "tz.co.asoft:kase-core", version.ref = "asoft" }
 koncurrent-executors-core = { module = "tz.co.asoft:koncurrent-executors-core", version.ref = "asoft" }
 koncurrent-executors-coroutines = { module = "tz.co.asoft:koncurrent-executors-coroutines", version.ref = "asoft" }
 koncurrent-executors-mock = { module = "tz.co.asoft:koncurrent-executors-mock", version.ref = "asoft" }
-
 koncurrent-later-core = { module = "tz.co.asoft:koncurrent-later-core", version.ref = "asoft" }
 koncurrent-later-test = { module = "tz.co.asoft:koncurrent-later-test", version.ref = "asoft" }
 koncurrent-later-coroutines = { module = "tz.co.asoft:koncurrent-later-coroutines", version.ref = "asoft" }
 koncurrent-later-react = { module = "tz.co.asoft:koncurrent-later-react", version.ref = "asoft" }
+
+cinematic-live-core = { module = "tz.co.asoft:cinematic-live-core", version.ref = "asoft" }
+cinematic-live-compose = { module = "tz.co.asoft:cinematic-live-compose", version.ref = "asoft" }
+cinematic-live-kollections = { module = "tz.co.asoft:cinematic-live-kollections", version.ref = "asoft" }
+cinematic-live-react = { module = "tz.co.asoft:cinematic-live-react", version.ref = "asoft" }
+cinematic-live-test = { module = "tz.co.asoft:cinematic-live-test", version.ref = "asoft" }
+cinematic-scene-core = { module = "tz.co.asoft:cinematic-scene-core", version.ref = "asoft" }
 
 asterina-color-core = { module = "tz.co.asoft:asterina-color-core", version.ref = "asoft" }
 asterina-color-compose = { module = "tz.co.asoft:asterina-color-compose", version.ref = "asoft" }
@@ -42,12 +48,6 @@ kash-money = { module = "tz.co.asoft:kash-money", version.ref = "asoft" }
 
 identifier-core = { module = "tz.co.asoft:identifier-core", version.ref = "asoft" }
 identifier-generators = { module = "tz.co.asoft:identifier-generators", version.ref = "asoft" }
-
-live-core = { module = "tz.co.asoft:live-core", version.ref = "asoft" }
-live-react = { module = "tz.co.asoft:live-react", version.ref = "asoft" }
-live-test = { module = "tz.co.asoft:live-test", version.ref = "asoft" }
-
-viewmodel-core = { module = "tz.co.asoft:viewmodel-core", version.ref = "asoft" }
 
 [plugins]
 library = { id = "tz.co.asoft.library", version.ref = "asoft" }
