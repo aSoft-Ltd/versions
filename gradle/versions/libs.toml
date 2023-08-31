@@ -56,7 +56,7 @@ kronecker-core = { module = "tz.co.asoft:kronecker-core", version.ref = "asoft" 
 epsilon-core = { module = "tz.co.asoft:epsilon-core", version.ref = "asoft" }
 epsilon-fake = { module = "tz.co.asoft:epsilon-fake", version.ref = "asoft" }
 epsilon-file = { module = "tz.co.asoft:epsilon-file", version.ref = "asoft" }
-epsilon-network-ktor = { module = "tz.co.asoft:epsilon-file", version.ref = "asoft" }
+epsilon-network-ktor = { module = "tz.co.asoft:epsilon-network-ktor", version.ref = "asoft" }
 
 krono-api = { module = "tz.co.asoft:krono-api", version.ref = "asoft" }
 krono-kotlinx = { module = "tz.co.asoft:krono-kotlinx", version.ref = "asoft" }
