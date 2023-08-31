@@ -40,6 +40,16 @@ lexi-api = { module = "tz.co.asoft:lexi-api", version.ref = "asoft" }
 lexi-file = { module = "tz.co.asoft:lexi-file", version.ref = "asoft" }
 lexi-console = { module = "tz.co.asoft:lexi-console", version.ref = "asoft" }
 
+captain-url = { module = "tz.co.asoft:captain-url", version.ref = "asoft" }
+captain-navigator-api = { module = "tz.co.asoft:captain-navigator-api", version.ref = "asoft" }
+captain-navigator-basic = { module = "tz.co.asoft:captain-navigator-basic", version.ref = "asoft" }
+captain-navigator-browser = { module = "tz.co.asoft:captain-navigator-browser", version.ref = "asoft" }
+captain-router-core = { module = "tz.co.asoft:captain-router-core", version.ref = "asoft" }
+captain-router-react-core = { module = "tz.co.asoft:captain-router-react-core", version.ref = "asoft" }
+captain-router-react-dom = { module = "tz.co.asoft:captain-router-react-dom", version.ref = "asoft" }
+captain-router-compose-core = { module = "tz.co.asoft:captain-router-compose-core", version.ref = "asoft" }
+captain-router-compose-html = { module = "tz.co.asoft:captain-router-compose-html", version.ref = "asoft" }
+
 asterina-color-core = { module = "tz.co.asoft:asterina-color-core", version.ref = "asoft" }
 asterina-color-compose = { module = "tz.co.asoft:asterina-color-compose", version.ref = "asoft" }
 asterina-size = { module = "tz.co.asoft:asterina-size", version.ref = "asoft" }
