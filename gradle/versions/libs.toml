@@ -61,6 +61,8 @@ epsilon-network-ktor = { module = "tz.co.asoft:epsilon-network-ktor", version.re
 krono-api = { module = "tz.co.asoft:krono-api", version.ref = "asoft" }
 krono-kotlinx = { module = "tz.co.asoft:krono-kotlinx", version.ref = "asoft" }
 
+hormone-core = { module = "tz.co.asoft:hormone-core", version.ref = "asoft" }
+
 captain-url = { module = "tz.co.asoft:captain-url", version.ref = "asoft" }
 captain-navigator-api = { module = "tz.co.asoft:captain-navigator-api", version.ref = "asoft" }
 captain-navigator-basic = { module = "tz.co.asoft:captain-navigator-basic", version.ref = "asoft" }
