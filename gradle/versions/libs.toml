@@ -8,6 +8,9 @@ kommander-coroutines = { module = "tz.co.asoft:kommander-coroutines", version.re
 kollections-interoperable = { module = "tz.co.asoft:kollections-interoperable", version.ref = "asoft" }
 kollections-atomic = { module = "tz.co.asoft:kollections-atomic", version.ref = "asoft" }
 
+kevlar-api = { module = "tz.co.asoft:kevlar-api", version.ref = "asoft" }
+kevlar-core = { module = "tz.co.asoft:kevlar-core", version.ref = "asoft" }
+
 asterina-color-core = { module = "tz.co.asoft:asterina-color-core", version.ref = "asoft" }
 asterina-color-compose = { module = "tz.co.asoft:asterina-color-compose", version.ref = "asoft" }
 asterina-size = { module = "tz.co.asoft:asterina-size", version.ref = "asoft" }
