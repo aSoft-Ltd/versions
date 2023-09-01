@@ -87,6 +87,14 @@ hormone-core = { module = "tz.co.asoft:hormone-core", version.ref = "asoft" }
 
 kommerce-core = { module = "tz.co.asoft:kommerce-core", version.ref = "asoft" }
 
+krest-core = { module = "tz.co.asoft:krest-core", version.ref = "asoft" }
+
+sanity-core = { module = "tz.co.asoft:sanity-core", version.ref = "asoft" }
+sanity-local = { module = "tz.co.asoft:sanity-local", version.ref = "asoft" }
+
+snitch-api = { module = "tz.co.asoft:snitch-api", version.ref = "asoft" }
+snitch-fake = { module = "tz.co.asoft:snitch-fake", version.ref = "asoft" }
+
 captain-url = { module = "tz.co.asoft:captain-url", version.ref = "asoft" }
 captain-navigator-api = { module = "tz.co.asoft:captain-navigator-api", version.ref = "asoft" }
 captain-navigator-basic = { module = "tz.co.asoft:captain-navigator-basic", version.ref = "asoft" }
@@ -98,6 +106,7 @@ captain-router-compose-core = { module = "tz.co.asoft:captain-router-compose-cor
 captain-router-compose-html = { module = "tz.co.asoft:captain-router-compose-html", version.ref = "asoft" }
 
 cabinet-api-core = { module = "tz.co.asoft:cabinet-api-core", version.ref = "asoft" }
+cabinet-api-pione = { module = "tz.co.asoft:cabinet-api-pione", version.ref = "asoft" }
 
 fin-foundation-core = { module = "tz.co.asoft:fin-foundation-core", version.ref = "asoft" }
 fin-ledger-api-core = { module = "tz.co.asoft:fin-ledger-api-core", version.ref = "asoft" }
