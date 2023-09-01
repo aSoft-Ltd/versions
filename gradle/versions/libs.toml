@@ -1,5 +1,7 @@
 [versions]
 asoft = "3.0.0"
+pione = "0.0.0"
+pitwo = "0.2.3"
 
 [libraries]
 kommander-core = { module = "tz.co.asoft:kommander-core", version.ref = "asoft" }
@@ -53,6 +55,13 @@ cinematic-scene-core = { module = "tz.co.asoft:cinematic-scene-core", version.re
 
 kronecker-core = { module = "tz.co.asoft:kronecker-core", version.ref = "asoft" }
 
+bee-core = { module = "tz.co.asoft:bee-core", version.ref = "asoft" }
+
+kost-core = { module = "tz.co.asoft:kost-core", version.ref = "asoft" }
+kost-dtos = { module = "tz.co.asoft:kost-dtos", version.ref = "asoft" }
+kost-api-core = { module = "tz.co.asoft:kost-api-core", version.ref = "asoft" }
+kost-sdk-core = { module = "tz.co.asoft:kost-sdk-core", version.ref = "asoft" }
+
 symphony-paginator = { module = "tz.co.asoft:symphony-paginator", version.ref = "asoft" }
 symphony-selector = { module = "tz.co.asoft:symphony-selector", version.ref = "asoft" }
 symphony-actions = { module = "tz.co.asoft:symphony-actions", version.ref = "asoft" }
@@ -76,6 +85,8 @@ krono-kotlinx = { module = "tz.co.asoft:krono-kotlinx", version.ref = "asoft" }
 
 hormone-core = { module = "tz.co.asoft:hormone-core", version.ref = "asoft" }
 
+kommerce-core = { module = "tz.co.asoft:kommerce-core", version.ref = "asoft" }
+
 captain-url = { module = "tz.co.asoft:captain-url", version.ref = "asoft" }
 captain-navigator-api = { module = "tz.co.asoft:captain-navigator-api", version.ref = "asoft" }
 captain-navigator-basic = { module = "tz.co.asoft:captain-navigator-basic", version.ref = "asoft" }
@@ -85,6 +96,8 @@ captain-router-react-core = { module = "tz.co.asoft:captain-router-react-core", 
 captain-router-react-dom = { module = "tz.co.asoft:captain-router-react-dom", version.ref = "asoft" }
 captain-router-compose-core = { module = "tz.co.asoft:captain-router-compose-core", version.ref = "asoft" }
 captain-router-compose-html = { module = "tz.co.asoft:captain-router-compose-html", version.ref = "asoft" }
+
+cabinet-api-core = { module = "tz.co.asoft:cabinet-api-core", version.ref = "asoft" }
 
 fin-foundation-core = { module = "tz.co.asoft:fin-foundation-core", version.ref = "asoft" }
 fin-ledger-api-core = { module = "tz.co.asoft:fin-ledger-api-core", version.ref = "asoft" }
@@ -113,6 +126,9 @@ identifier-comm = { module = "tz.co.asoft:identifier-comm", version.ref = "asoft
 identifier-legal-dtos = { module = "tz.co.asoft:identifier-legal-dtos", version.ref = "asoft" }
 identifier-legal-presenters = { module = "tz.co.asoft:identifier-legal-presenters", version.ref = "asoft" }
 identifier-legal-sdk-client-core = { module = "tz.co.asoft:identifier-legal-sdk-client-core", version.ref = "asoft" }
+
+pione-rest = { module = "com.picortex:pione-rest", version.ref = "pione" }
+pione-test = { module = "com.picortex:pione-test", version.ref = "pione" }
 
 [plugins]
 library = { id = "tz.co.asoft.library", version.ref = "asoft" }
