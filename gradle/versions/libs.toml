@@ -86,6 +86,21 @@ captain-router-react-dom = { module = "tz.co.asoft:captain-router-react-dom", ve
 captain-router-compose-core = { module = "tz.co.asoft:captain-router-compose-core", version.ref = "asoft" }
 captain-router-compose-html = { module = "tz.co.asoft:captain-router-compose-html", version.ref = "asoft" }
 
+fin-foundation-core = { module = "tz.co.asoft:fin-foundation-core", version.ref = "asoft" }
+fin-ledger-api-core = { module = "tz.co.asoft:fin-ledger-api-core", version.ref = "asoft" }
+fin-ledger-api-file = { module = "tz.co.asoft:fin-ledger-api-file", version.ref = "asoft" }
+fin-ledger-api-mock = { module = "tz.co.asoft:fin-ledger-api-mock", version.ref = "asoft" }
+fin-ledger-sdk-client-core = { module = "tz.co.asoft:fin-ledger-sdk-client-core", version.ref = "asoft" }
+fin-ledger-sdk-client-cli = { module = "tz.co.asoft:fin-ledger-sdk-client-cli", version.ref = "asoft" }
+fin-ledger-sdk-server-core = { module = "tz.co.asoft:fin-ledger-sdk-server-core", version.ref = "asoft" }
+fin-budget-api-core = { module = "tz.co.asoft:fin-budget-api-core", version.ref = "asoft" }
+fin-budget-api-file = { module = "tz.co.asoft:fin-budget-api-file", version.ref = "asoft" }
+fin-budget-api-mock = { module = "tz.co.asoft:fin-budget-api-mock", version.ref = "asoft" }
+fin-budget-axiom = { module = "tz.co.asoft:fin-budget-axiom", version.ref = "asoft" }
+fin-budget-sdk-client-core = { module = "tz.co.asoft:fin-budget-sdk-client-core", version.ref = "asoft" }
+fin-budget-sdk-client-cli = { module = "tz.co.asoft:fin-budget-sdk-client-cli", version.ref = "asoft" }
+fin-budget-sdk-server-core = { module = "tz.co.asoft:fin-budget-sdk-server-core", version.ref = "asoft" }
+
 asterina-color-core = { module = "tz.co.asoft:asterina-color-core", version.ref = "asoft" }
 asterina-color-compose = { module = "tz.co.asoft:asterina-color-compose", version.ref = "asoft" }
 asterina-size = { module = "tz.co.asoft:asterina-size", version.ref = "asoft" }
