@@ -59,6 +59,7 @@ bee-core = { module = "tz.co.asoft:bee-core", version.ref = "asoft" }
 
 kost-core = { module = "tz.co.asoft:kost-core", version.ref = "asoft" }
 kost-dtos = { module = "tz.co.asoft:kost-dtos", version.ref = "asoft" }
+kost-presenters = { module = "tz.co.asoft:kost-presenters", version.ref = "asoft" }
 kost-api-core = { module = "tz.co.asoft:kost-api-core", version.ref = "asoft" }
 kost-sdk-core = { module = "tz.co.asoft:kost-sdk-core", version.ref = "asoft" }
 
@@ -87,10 +88,18 @@ hormone-core = { module = "tz.co.asoft:hormone-core", version.ref = "asoft" }
 
 kommerce-core = { module = "tz.co.asoft:kommerce-core", version.ref = "asoft" }
 
+klip-api = { module = "tz.co.asoft:klip-api", version.ref = "asoft" }
+klip-browser = { module = "tz.co.asoft:klip-browser", version.ref = "asoft" }
+
+bringer-api = { module = "tz.co.asoft:bringer-api", version.ref = "asoft" }
+bringer-mock = { module = "tz.co.asoft:bringer-mock", version.ref = "asoft" }
+
 krest-core = { module = "tz.co.asoft:krest-core", version.ref = "asoft" }
 
 sanity-core = { module = "tz.co.asoft:sanity-core", version.ref = "asoft" }
 sanity-local = { module = "tz.co.asoft:sanity-local", version.ref = "asoft" }
+
+koder-core = { module = "tz.co.asoft:koder-core", version.ref = "asoft" }
 
 snitch-api = { module = "tz.co.asoft:snitch-api", version.ref = "asoft" }
 snitch-fake = { module = "tz.co.asoft:snitch-fake", version.ref = "asoft" }
@@ -135,6 +144,78 @@ identifier-comm = { module = "tz.co.asoft:identifier-comm", version.ref = "asoft
 identifier-legal-dtos = { module = "tz.co.asoft:identifier-legal-dtos", version.ref = "asoft" }
 identifier-legal-presenters = { module = "tz.co.asoft:identifier-legal-presenters", version.ref = "asoft" }
 identifier-legal-sdk-client-core = { module = "tz.co.asoft:identifier-legal-sdk-client-core", version.ref = "asoft" }
+
+sentinel-reception-api-core = { module = "tz.co.asoft:sentinel-reception-api-core", version.ref = "asoft" }
+sentinel-reception-sdk-client-core = { module = "tz.co.asoft:sentinel-reception-sdk-client-core", version.ref = "asoft" }
+sentinel-registration-api-core = { module = "tz.co.asoft:sentinel-registration-api-core", version.ref = "asoft" }
+sentinel-registration-api-pione = { module = "tz.co.asoft:sentinel-registration-api-pione", version.ref = "asoft" }
+sentinel-registration-sdk-client-core = { module = "tz.co.asoft:sentinel-registration-sdk-client-core", version.ref = "asoft" }
+sentinel-enterprise-authentication-api-core = { module = "tz.co.asoft:sentinel-enterprise-authentication-api-core", version.ref = "asoft" }
+sentinel-enterprise-authentication-api-pione = { module = "tz.co.asoft:sentinel-enterprise-authentication-api-pione", version.ref = "asoft" }
+sentinel-enterprise-authentication-sdk-client-core = { module = "tz.co.asoft:sentinel-enterprise-authentication-sdk-client-core", version.ref = "asoft" }
+sentinel-enterprise-profile-api-core = { module = "tz.co.asoft:sentinel-enterprise-profile-api-core", version.ref = "asoft" }
+sentinel-enterprise-profile-api-pione = { module = "tz.co.asoft:sentinel-enterprise-profile-api-pione", version.ref = "asoft" }
+sentinel-enterprise-profile-sdk-client-core = { module = "tz.co.asoft:sentinel-enterprise-profile-sdk-client-core", version.ref = "asoft" }
+sentinel-enterprise-onboarding-sdk-client-core = { module = "tz.co.asoft:sentinel-enterprise-onboarding-sdk-client-core", version.ref = "asoft" }
+
+flame-core = { module = "tz.co.asoft:flame-core", version.ref = "asoft" }
+flame-entity-api-core = { module = "tz.co.asoft:flame-entity-api-core", version.ref = "asoft" }
+flame-entity-api-pione = { module = "tz.co.asoft:flame-entity-api-pione", version.ref = "asoft" }
+flame-entity-sdk-client = { module = "tz.co.asoft:flame-entity-sdk-client", version.ref = "asoft" }
+flame-customers-api-core = { module = "tz.co.asoft:flame-customers-api-core", version.ref = "asoft" }
+flame-customers-api-pione = { module = "tz.co.asoft:flame-customers-api-pione", version.ref = "asoft" }
+flame-customers-sdk-client-core = { module = "tz.co.asoft:flame-customers-sdk-client-core", version.ref = "asoft" }
+flame-suppliers-api-core = { module = "tz.co.asoft:flame-suppliers-api-core", version.ref = "asoft" }
+flame-suppliers-api-pione = { module = "tz.co.asoft:flame-suppliers-api-pione", version.ref = "asoft" }
+flame-suppliers-sdk-client-core = { module = "tz.co.asoft:flame-suppliers-sdk-client-core", version.ref = "asoft" }
+
+stocker-dtos = { module = "tz.co.asoft:stocker-dtos", version.ref = "asoft" }
+stocker-products-dtos = { module = "tz.co.asoft:stocker-products-dtos", version.ref = "asoft" }
+stocker-products-presenters = { module = "tz.co.asoft:stocker-products-presenters", version.ref = "asoft" }
+stocker-products-api-core = { module = "tz.co.asoft:stocker-products-api-core", version.ref = "asoft" }
+stocker-products-api-pione = { module = "tz.co.asoft:stocker-products-api-pione", version.ref = "asoft" }
+stocker-products-sdk-client-core = { module = "tz.co.asoft:stocker-products-sdk-client-core", version.ref = "asoft" }
+
+cellar-indentures-dtos = { module = "tz.co.asoft:cellar-indentures-dtos", version.ref = "asoft" }
+cellar-indentures-presenters = { module = "tz.co.asoft:cellar-indentures-presenters", version.ref = "asoft" }
+cellar-indentures-api-core = { module = "tz.co.asoft:cellar-indentures-api-core", version.ref = "asoft" }
+cellar-indentures-api-test = { module = "tz.co.asoft:cellar-indentures-api-test", version.ref = "asoft" }
+cellar-indentures-api-pione = { module = "tz.co.asoft:cellar-indentures-api-pione", version.ref = "asoft" }
+cellar-indentures-sdk-client-core = { module = "tz.co.asoft:cellar-indentures-sdk-client-core", version.ref = "asoft" }
+cellar-sindentures-api-core = { module = "tz.co.asoft:cellar-sindentures-api-core", version.ref = "asoft" }
+cellar-sindentures-sdk-client-core = { module = "tz.co.asoft:cellar-sindentures-sdk-client-core", version.ref = "asoft" }
+cellar-pindentures-api-core = { module = "tz.co.asoft:cellar-pindentures-api-core", version.ref = "asoft" }
+cellar-pindentures-sdk-client-pione = { module = "tz.co.asoft:cellar-pindentures-sdk-client-pione", version.ref = "asoft" }
+cellar-rfqs-api-core = { module = "tz.co.asoft:cellar-rfqs-api-core", version.ref = "asoft" }
+cellar-rfqs-api-pione = { module = "tz.co.asoft:cellar-rfqs-api-pione", version.ref = "asoft" }
+cellar-rfqs-sdk-client-core = { module = "tz.co.asoft:cellar-rfqs-sdk-client-core", version.ref = "asoft" }
+cellar-quotes-api-core = { module = "tz.co.asoft:cellar-quotes-api-core", version.ref = "asoft" }
+cellar-quotes-api-pione = { module = "tz.co.asoft:cellar-quotes-api-pione", version.ref = "asoft" }
+cellar-quotes-sdk-client-core = { module = "tz.co.asoft:cellar-quotes-sdk-client-core", version.ref = "asoft" }
+cellar-porders-api-core = { module = "tz.co.asoft:cellar-porders-api-core", version.ref = "asoft" }
+cellar-porders-api-pione = { module = "tz.co.asoft:cellar-porders-api-pione", version.ref = "asoft" }
+cellar-porders-sdk-client-core = { module = "tz.co.asoft:cellar-porders-sdk-client-core", version.ref = "asoft" }
+cellar-sorders-api-core = { module = "tz.co.asoft:cellar-sorders-api-core", version.ref = "asoft" }
+cellar-sorders-api-pione = { module = "tz.co.asoft:cellar-sorders-api-pione", version.ref = "asoft" }
+cellar-sorders-sdk-client-core = { module = "tz.co.asoft:cellar-sorders-sdk-client-core", version.ref = "asoft" }
+cellar-bills-api-core = { module = "tz.co.asoft:cellar-bills-api-core", version.ref = "asoft" }
+cellar-bills-api-pione = { module = "tz.co.asoft:cellar-bills-api-pione", version.ref = "asoft" }
+cellar-bills-sdk-client-core = { module = "tz.co.asoft:cellar-bills-sdk-client-core", version.ref = "asoft" }
+cellar-invoices-api-core = { module = "tz.co.asoft:cellar-invoices-api-core", version.ref = "asoft" }
+cellar-invoices-api-pione = { module = "tz.co.asoft:cellar-invoices-api-pione", version.ref = "asoft" }
+cellar-invoices-sdk-client-core = { module = "tz.co.asoft:cellar-invoices-sdk-client-core", version.ref = "asoft" }
+cellar-trades-dtos = { module = "tz.co.asoft:cellar-trades-dtos", version.ref = "asoft" }
+cellar-trades-presenters = { module = "tz.co.asoft:cellar-trades-presenters", version.ref = "asoft" }
+cellar-trades-api-core = { module = "tz.co.asoft:cellar-trades-api-core", version.ref = "asoft" }
+cellar-trades-api-pione = { module = "tz.co.asoft:cellar-trades-api-pione", version.ref = "asoft" }
+cellar-sales-dtos = { module = "tz.co.asoft:cellar-sales-dtos", version.ref = "asoft" }
+cellar-sales-presenters = { module = "tz.co.asoft:cellar-sales-presenters", version.ref = "asoft" }
+cellar-sales-api-core = { module = "tz.co.asoft:cellar-sales-api-core", version.ref = "asoft" }
+cellar-sales-api-pione = { module = "tz.co.asoft:cellar-sales-api-pione", version.ref = "asoft" }
+cellar-purchases-dtos = { module = "tz.co.asoft:cellar-purchases-dtos", version.ref = "asoft" }
+cellar-purchases-presenters = { module = "tz.co.asoft:cellar-purchases-presenters", version.ref = "asoft" }
+cellar-purchases-api-core = { module = "tz.co.asoft:cellar-purchases-api-core", version.ref = "asoft" }
+cellar-purchases-api-pione = { module = "tz.co.asoft:cellar-purchases-api-pione", version.ref = "asoft" }
 
 pione-rest = { module = "com.picortex:pione-rest", version.ref = "pione" }
 pione-test = { module = "com.picortex:pione-test", version.ref = "pione" }
