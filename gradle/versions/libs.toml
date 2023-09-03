@@ -148,6 +148,7 @@ asterina-brand = { module = "tz.co.asoft:asterina-brand", version.ref = "asoft" 
 
 identifier-core = { module = "tz.co.asoft:identifier-core", version.ref = "asoft" }
 identifier-comm = { module = "tz.co.asoft:identifier-comm", version.ref = "asoft" }
+identifier-fields = { module = "tz.co.asoft:identifier-fields", version.ref = "asoft" }
 identifier-legal-dtos = { module = "tz.co.asoft:identifier-legal-dtos", version.ref = "asoft" }
 identifier-legal-presenters = { module = "tz.co.asoft:identifier-legal-presenters", version.ref = "asoft" }
 identifier-legal-sdk-client-core = { module = "tz.co.asoft:identifier-legal-sdk-client-core", version.ref = "asoft" }
