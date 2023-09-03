@@ -78,8 +78,15 @@ symphony-input-dialog = { module = "tz.co.asoft:symphony-input-dialog", version.
 
 epsilon-core = { module = "tz.co.asoft:epsilon-core", version.ref = "asoft" }
 epsilon-fake = { module = "tz.co.asoft:epsilon-fake", version.ref = "asoft" }
-epsilon-file = { module = "tz.co.asoft:epsilon-file", version.ref = "asoft" }
+epsilon-file-core = { module = "tz.co.asoft:epsilon-file-core", version.ref = "asoft" }
+epsilon-file-fields = { module = "tz.co.asoft:epsilon-file-fields", version.ref = "asoft" }
 epsilon-network-ktor = { module = "tz.co.asoft:epsilon-network-ktor", version.ref = "asoft" }
+epsilon-image-core = { module = "tz.co.asoft:epsilon-image-core", version.ref = "asoft" }
+epsilon-image-web = { module = "tz.co.asoft:epsilon-image-web", version.ref = "asoft" }
+epsilon-image-compose-core = { module = "tz.co.asoft:epsilon-image-compose-core", version.ref = "asoft" }
+epsilon-image-compose-html = { module = "tz.co.asoft:epsilon-image-compose-html", version.ref = "asoft" }
+epsilon-image-react-core = { module = "tz.co.asoft:epsilon-image-react-core", version.ref = "asoft" }
+epsilon-image-react-dom = { module = "tz.co.asoft:epsilon-image-react-dom", version.ref = "asoft" }
 
 krono-api = { module = "tz.co.asoft:krono-api", version.ref = "asoft" }
 krono-kotlinx = { module = "tz.co.asoft:krono-kotlinx", version.ref = "asoft" }
