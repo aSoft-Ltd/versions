@@ -41,10 +41,12 @@ lexi-console = { module = "tz.co.asoft:lexi-console", version.ref = "asoft" }
 kash-currency = { module = "tz.co.asoft:kash-currency", version.ref = "asoft" }
 kash-cents = { module = "tz.co.asoft:kash-cents", version.ref = "asoft" }
 kash-money = { module = "tz.co.asoft:kash-money", version.ref = "asoft" }
+kash-fields = { module = "tz.co.asoft:kash-fields", version.ref = "asoft" }
 
 geo-core = { module = "tz.co.asoft:geo-core", version.ref = "asoft" }
 geo-languages = { module = "tz.co.asoft:geo-languages", version.ref = "asoft" }
 geo-countries = { module = "tz.co.asoft:geo-countries", version.ref = "asoft" }
+geo-fields = { module = "tz.co.asoft:geo-fields", version.ref = "asoft" }
 
 cinematic-live-core = { module = "tz.co.asoft:cinematic-live-core", version.ref = "asoft" }
 cinematic-live-compose = { module = "tz.co.asoft:cinematic-live-compose", version.ref = "asoft" }
@@ -90,6 +92,7 @@ epsilon-image-react-dom = { module = "tz.co.asoft:epsilon-image-react-dom", vers
 
 krono-api = { module = "tz.co.asoft:krono-api", version.ref = "asoft" }
 krono-kotlinx = { module = "tz.co.asoft:krono-kotlinx", version.ref = "asoft" }
+krono-fields = { module = "tz.co.asoft:krono-fields", version.ref = "asoft" }
 
 hormone-core = { module = "tz.co.asoft:hormone-core", version.ref = "asoft" }
 
