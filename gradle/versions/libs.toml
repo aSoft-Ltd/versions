@@ -126,6 +126,7 @@ captain-router-compose-html = { module = "tz.co.asoft:captain-router-compose-htm
 
 cabinet-api-core = { module = "tz.co.asoft:cabinet-api-core", version.ref = "asoft" }
 cabinet-api-pione = { module = "tz.co.asoft:cabinet-api-pione", version.ref = "asoft" }
+cabinet-client-scenes = { module = "tz.co.asoft:cabinet-client-scenes", version.ref = "asoft" }
 
 fin-foundation-core = { module = "tz.co.asoft:fin-foundation-core", version.ref = "asoft" }
 fin-ledger-api-core = { module = "tz.co.asoft:fin-ledger-api-core", version.ref = "asoft" }
