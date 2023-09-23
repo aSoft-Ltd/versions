@@ -43,9 +43,10 @@ kash-cents = { module = "tz.co.asoft:kash-cents", version.ref = "asoft" }
 kash-money = { module = "tz.co.asoft:kash-money", version.ref = "asoft" }
 kash-fields = { module = "tz.co.asoft:kash-fields", version.ref = "asoft" }
 
-geo-core = { module = "tz.co.asoft:geo-core", version.ref = "asoft" }
 geo-languages = { module = "tz.co.asoft:geo-languages", version.ref = "asoft" }
 geo-countries = { module = "tz.co.asoft:geo-countries", version.ref = "asoft" }
+geo-addresses = { module = "tz.co.asoft:geo-addresses", version.ref = "asoft" }
+geo-coordinates = { module = "tz.co.asoft:geo-coordinates", version.ref = "asoft" }
 geo-fields = { module = "tz.co.asoft:geo-fields", version.ref = "asoft" }
 
 cinematic-live-core = { module = "tz.co.asoft:cinematic-live-core", version.ref = "asoft" }
