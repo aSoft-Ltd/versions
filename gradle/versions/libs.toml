@@ -60,6 +60,10 @@ kronecker-core = { module = "tz.co.asoft:kronecker-core", version.ref = "asoft" 
 
 bee-core = { module = "tz.co.asoft:bee-core", version.ref = "asoft" }
 
+akkounts-core = { module = "tz.co.asoft:akkounts-core", version.ref = "asoft" }
+akkounts-sage-core = { module = "tz.co.asoft:akkounts-sage-core", version.ref = "asoft" }
+akkounts-sage-mock = { module = "tz.co.asoft:akkounts-sage-mock", version.ref = "asoft" }
+
 kost-core = { module = "tz.co.asoft:kost-core", version.ref = "asoft" }
 kost-dtos = { module = "tz.co.asoft:kost-dtos", version.ref = "asoft" }
 kost-presenters = { module = "tz.co.asoft:kost-presenters", version.ref = "asoft" }
