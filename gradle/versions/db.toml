@@ -1,0 +1,5 @@
+[versions]
+mongo = "4.10.2"
+
+[libraries]
+mongo =  { module = "org.mongodb:mongodb-driver-kotlin-coroutine", version.ref = "mongo" }

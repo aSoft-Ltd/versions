@@ -15,6 +15,7 @@ kevlar-core = { module = "tz.co.asoft:kevlar-core", version.ref = "asoft" }
 
 kase-possible = { module = "tz.co.asoft:kase-possible", version.ref = "asoft" }
 kase-optional = { module = "tz.co.asoft:kase-optional", version.ref = "asoft" }
+kase-response = { module = "tz.co.asoft:kase-response", version.ref = "asoft" }
 kase-core = { module = "tz.co.asoft:kase-core", version.ref = "asoft" }
 
 koncurrent-executors-core = { module = "tz.co.asoft:koncurrent-executors-core", version.ref = "asoft" }
@@ -59,6 +60,13 @@ cinematic-scene-core = { module = "tz.co.asoft:cinematic-scene-core", version.re
 kronecker-core = { module = "tz.co.asoft:kronecker-core", version.ref = "asoft" }
 
 bee-core = { module = "tz.co.asoft:bee-core", version.ref = "asoft" }
+
+ribix-charts = { module = "tz.co.asoft:ribix-charts", version.ref = "asoft" }
+ribix-changes = { module = "tz.co.asoft:ribix-changes", version.ref = "asoft" }
+
+raven-api = { module = "tz.co.asoft:raven-api", version.ref = "asoft" }
+raven-mock = { module = "tz.co.asoft:raven-mock", version.ref = "asoft" }
+raven-smtp = { module = "tz.co.asoft:raven-smtp", version.ref = "asoft" }
 
 akkounts-core = { module = "tz.co.asoft:akkounts-core", version.ref = "asoft" }
 akkounts-sage-core = { module = "tz.co.asoft:akkounts-sage-core", version.ref = "asoft" }
@@ -105,6 +113,8 @@ kommerce-core = { module = "tz.co.asoft:kommerce-core", version.ref = "asoft" }
 
 klip-api = { module = "tz.co.asoft:klip-api", version.ref = "asoft" }
 klip-browser = { module = "tz.co.asoft:klip-browser", version.ref = "asoft" }
+
+yeti-core = { module = "tz.co.asoft:yeti-core", version.ref = "asoft" }
 
 bringer-api = { module = "tz.co.asoft:bringer-api", version.ref = "asoft" }
 bringer-mock = { module = "tz.co.asoft:bringer-mock", version.ref = "asoft" }
