@@ -1,5 +1,5 @@
 [versions]
-ktor = "2.3.0"
+ktor = "2.3.4"
 
 [libraries]
 client-core = { module = "io.ktor:ktor-client-core", version.ref = "ktor" }
@@ -7,5 +7,6 @@ client-cio = { module = "io.ktor:ktor-client-cio", version.ref = "ktor" }
 client-js = { module = "io.ktor:ktor-client-js", version.ref = "ktor" }
 http = { module = "io.ktor:ktor-http", version.ref = "ktor" }
 
+server-core = { module = "io.ktor:ktor-server-core", version.ref = "ktor" }
 server-cio = { module = "io.ktor:ktor-server-cio", version.ref = "ktor" }
 server-cors = { module = "io.ktor:ktor-server-cors", version.ref = "ktor" }

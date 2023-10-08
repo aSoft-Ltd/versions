@@ -172,14 +172,18 @@ identifier-legal-dtos = { module = "tz.co.asoft:identifier-legal-dtos", version.
 identifier-legal-presenters = { module = "tz.co.asoft:identifier-legal-presenters", version.ref = "asoft" }
 identifier-legal-sdk-client-core = { module = "tz.co.asoft:identifier-legal-sdk-client-core", version.ref = "asoft" }
 
-sentinel-reception-api-core = { module = "tz.co.asoft:sentinel-reception-api-core", version.ref = "asoft" }
-sentinel-reception-sdk-client-core = { module = "tz.co.asoft:sentinel-reception-sdk-client-core", version.ref = "asoft" }
+
+sentinel-registration-core = { module = "tz.co.asoft:sentinel-registration-core", version.ref = "asoft" }
+sentinel-registration-flix = { module = "tz.co.asoft:sentinel-registration-flix", version.ref = "asoft" }
 sentinel-registration-api-core = { module = "tz.co.asoft:sentinel-registration-api-core", version.ref = "asoft" }
 sentinel-registration-api-flix = { module = "tz.co.asoft:sentinel-registration-api-flix", version.ref = "asoft" }
 sentinel-registration-service-core = { module = "tz.co.asoft:sentinel-registration-service-core", version.ref = "asoft" }
 sentinel-registration-service-flix = { module = "tz.co.asoft:sentinel-registration-service-flix", version.ref = "asoft" }
 sentinel-registration-api-pione = { module = "tz.co.asoft:sentinel-registration-api-pione", version.ref = "asoft" }
 sentinel-registration-sdk-client-core = { module = "tz.co.asoft:sentinel-registration-sdk-client-core", version.ref = "asoft" }
+
+sentinel-reception-api-core = { module = "tz.co.asoft:sentinel-reception-api-core", version.ref = "asoft" }
+sentinel-reception-sdk-client-core = { module = "tz.co.asoft:sentinel-reception-sdk-client-core", version.ref = "asoft" }
 sentinel-enterprise-authentication-api-core = { module = "tz.co.asoft:sentinel-enterprise-authentication-api-core", version.ref = "asoft" }
 sentinel-enterprise-authentication-api-pione = { module = "tz.co.asoft:sentinel-enterprise-authentication-api-pione", version.ref = "asoft" }
 sentinel-enterprise-authentication-sdk-client-core = { module = "tz.co.asoft:sentinel-enterprise-authentication-sdk-client-core", version.ref = "asoft" }
