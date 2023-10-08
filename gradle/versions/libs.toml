@@ -179,6 +179,7 @@ sentinel-registration-api-core = { module = "tz.co.asoft:sentinel-registration-a
 sentinel-registration-api-flix = { module = "tz.co.asoft:sentinel-registration-api-flix", version.ref = "asoft" }
 sentinel-registration-service-core = { module = "tz.co.asoft:sentinel-registration-service-core", version.ref = "asoft" }
 sentinel-registration-service-flix = { module = "tz.co.asoft:sentinel-registration-service-flix", version.ref = "asoft" }
+sentinel-registration-service-sdk = { module = "tz.co.asoft:sentinel-registration-service-sdk", version.ref = "asoft" }
 sentinel-registration-api-pione = { module = "tz.co.asoft:sentinel-registration-api-pione", version.ref = "asoft" }
 sentinel-registration-sdk-client-core = { module = "tz.co.asoft:sentinel-registration-sdk-client-core", version.ref = "asoft" }
 
