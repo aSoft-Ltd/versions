@@ -13,10 +13,17 @@ kollections-atomic = { module = "tz.co.asoft:kollections-atomic", version.ref = 
 kevlar-api = { module = "tz.co.asoft:kevlar-api", version.ref = "asoft" }
 kevlar-core = { module = "tz.co.asoft:kevlar-core", version.ref = "asoft" }
 
+
+
 kase-possible = { module = "tz.co.asoft:kase-possible", version.ref = "asoft" }
 kase-optional = { module = "tz.co.asoft:kase-optional", version.ref = "asoft" }
-kase-response = { module = "tz.co.asoft:kase-response", version.ref = "asoft" }
 kase-core = { module = "tz.co.asoft:kase-core", version.ref = "asoft" }
+
+kase-response-core = { module = "tz.co.asoft:kase-response-core", version.ref = "asoft" }
+kase-response-ktor-client = { module = "tz.co.asoft:kase-response-ktor-client", version.ref = "asoft" }
+kase-response-ktor-server = { module = "tz.co.asoft:kase-response-ktor-server", version.ref = "asoft" }
+
+
 
 koncurrent-executors-core = { module = "tz.co.asoft:koncurrent-executors-core", version.ref = "asoft" }
 koncurrent-executors-coroutines = { module = "tz.co.asoft:koncurrent-executors-coroutines", version.ref = "asoft" }
