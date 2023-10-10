@@ -1,0 +1,5 @@
+[versions]
+mongodb = "1.19.1"
+
+[libraries]
+mongodb = { module = "org.testcontainers:mongodb", version.ref = "mongodb" }

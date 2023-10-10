@@ -1,5 +1,8 @@
 [versions]
-docker = "7.1.0"
+docker = "9.3.4"
+
+[libraries]
+docker = { module = "com.bmuschko:gradle-docker-plugin", version.ref = "docker" }
 
 [plugins]
 root-docker = { id = "com.bmuschko.docker-java-application", version.ref = "docker" }
