@@ -195,7 +195,12 @@ sentinel-reception-core = { module = "tz.co.asoft:sentinel-reception-core", vers
 sentinel-reception-service-flix = { module = "tz.co.asoft:sentinel-reception-service-flix", version.ref = "asoft" }
 sentinel-reception-service-sdk = { module = "tz.co.asoft:sentinel-reception-service-sdk", version.ref = "asoft" }
 
+sentinel-enterprise-authentication-core = { module = "tz.co.asoft:sentinel-enterprise-authentication-core", version.ref = "asoft" }
+sentinel-enterprise-authentication-flix = { module = "tz.co.asoft:sentinel-enterprise-authentication-flix", version.ref = "asoft" }
+sentinel-enterprise-authentication-service-flix = { module = "tz.co.asoft:sentinel-enterprise-authentication-service-flix", version.ref = "asoft" }
+sentinel-enterprise-authentication-service-sdk = { module = "tz.co.asoft:sentinel-enterprise-authentication-service-sdk", version.ref = "asoft" }
 sentinel-enterprise-authentication-api-core = { module = "tz.co.asoft:sentinel-enterprise-authentication-api-core", version.ref = "asoft" }
+sentinel-enterprise-authentication-api-flix = { module = "tz.co.asoft:sentinel-enterprise-authentication-api-flix", version.ref = "asoft" }
 sentinel-enterprise-authentication-api-pione = { module = "tz.co.asoft:sentinel-enterprise-authentication-api-pione", version.ref = "asoft" }
 sentinel-enterprise-authentication-sdk-client-core = { module = "tz.co.asoft:sentinel-enterprise-authentication-sdk-client-core", version.ref = "asoft" }
 sentinel-enterprise-profile-api-core = { module = "tz.co.asoft:sentinel-enterprise-profile-api-core", version.ref = "asoft" }
