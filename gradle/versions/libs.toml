@@ -180,6 +180,7 @@ identifier-legal-presenters = { module = "tz.co.asoft:identifier-legal-presenter
 identifier-legal-sdk-client-core = { module = "tz.co.asoft:identifier-legal-sdk-client-core", version.ref = "asoft" }
 
 
+
 sentinel-registration-core = { module = "tz.co.asoft:sentinel-registration-core", version.ref = "asoft" }
 sentinel-registration-flix = { module = "tz.co.asoft:sentinel-registration-flix", version.ref = "asoft" }
 sentinel-registration-api-core = { module = "tz.co.asoft:sentinel-registration-api-core", version.ref = "asoft" }
@@ -190,8 +191,10 @@ sentinel-registration-service-sdk = { module = "tz.co.asoft:sentinel-registratio
 sentinel-registration-api-pione = { module = "tz.co.asoft:sentinel-registration-api-pione", version.ref = "asoft" }
 sentinel-registration-sdk-client-core = { module = "tz.co.asoft:sentinel-registration-sdk-client-core", version.ref = "asoft" }
 
-sentinel-reception-api-core = { module = "tz.co.asoft:sentinel-reception-api-core", version.ref = "asoft" }
-sentinel-reception-sdk-client-core = { module = "tz.co.asoft:sentinel-reception-sdk-client-core", version.ref = "asoft" }
+sentinel-reception-core = { module = "tz.co.asoft:sentinel-reception-core", version.ref = "asoft" }
+sentinel-reception-service-flix = { module = "tz.co.asoft:sentinel-reception-service-flix", version.ref = "asoft" }
+sentinel-reception-service-sdk = { module = "tz.co.asoft:sentinel-reception-service-sdk", version.ref = "asoft" }
+
 sentinel-enterprise-authentication-api-core = { module = "tz.co.asoft:sentinel-enterprise-authentication-api-core", version.ref = "asoft" }
 sentinel-enterprise-authentication-api-pione = { module = "tz.co.asoft:sentinel-enterprise-authentication-api-pione", version.ref = "asoft" }
 sentinel-enterprise-authentication-sdk-client-core = { module = "tz.co.asoft:sentinel-enterprise-authentication-sdk-client-core", version.ref = "asoft" }
@@ -199,6 +202,8 @@ sentinel-enterprise-profile-api-core = { module = "tz.co.asoft:sentinel-enterpri
 sentinel-enterprise-profile-api-pione = { module = "tz.co.asoft:sentinel-enterprise-profile-api-pione", version.ref = "asoft" }
 sentinel-enterprise-profile-sdk-client-core = { module = "tz.co.asoft:sentinel-enterprise-profile-sdk-client-core", version.ref = "asoft" }
 sentinel-enterprise-onboarding-sdk-client-core = { module = "tz.co.asoft:sentinel-enterprise-onboarding-sdk-client-core", version.ref = "asoft" }
+
+
 
 flame-core = { module = "tz.co.asoft:flame-core", version.ref = "asoft" }
 flame-entity-api-core = { module = "tz.co.asoft:flame-entity-api-core", version.ref = "asoft" }
