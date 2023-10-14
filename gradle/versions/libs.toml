@@ -44,6 +44,7 @@ keep-react-native = { module = "tz.co.asoft:keep-react-native", version.ref = "a
 
 lexi-api = { module = "tz.co.asoft:lexi-api", version.ref = "asoft" }
 lexi-file = { module = "tz.co.asoft:lexi-file", version.ref = "asoft" }
+lexi-config = { module = "tz.co.asoft:lexi-config", version.ref = "asoft" }
 lexi-console = { module = "tz.co.asoft:lexi-console", version.ref = "asoft" }
 
 kash-currency = { module = "tz.co.asoft:kash-currency", version.ref = "asoft" }
