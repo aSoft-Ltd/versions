@@ -75,6 +75,8 @@ ribix-changes = { module = "tz.co.asoft:ribix-changes", version.ref = "asoft" }
 raven-api = { module = "tz.co.asoft:raven-api", version.ref = "asoft" }
 raven-mock = { module = "tz.co.asoft:raven-mock", version.ref = "asoft" }
 raven-smtp = { module = "tz.co.asoft:raven-smtp", version.ref = "asoft" }
+raven-flix-sender = { module = "tz.co.asoft:raven-sender", version.ref = "asoft" }
+raven-flix-receiver = { module = "tz.co.asoft:raven-receiver", version.ref = "asoft" }
 
 akkounts-core = { module = "tz.co.asoft:akkounts-core", version.ref = "asoft" }
 akkounts-sage-core = { module = "tz.co.asoft:akkounts-sage-core", version.ref = "asoft" }
