@@ -1,6 +1,6 @@
 [versions]
-agp = "7.4.0"
-lifecycle = "2.4.0"
+agp = "8.1.0" # "7.4.0"
+lifecycle = "2.6.2" # "2.4.0"
 compile-sdk = "33"
 
 [libraries]
