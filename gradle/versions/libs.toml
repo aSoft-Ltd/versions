@@ -69,10 +69,15 @@ kronecker-core = { module = "tz.co.asoft:kronecker-core", version.ref = "asoft" 
 
 bee-core = { module = "tz.co.asoft:bee-core", version.ref = "asoft" }
 
+kiota-url = { module = "tz.co.asoft:kiota-url", version.ref = "asoft" }
+kiota-sse = { module = "tz.co.asoft:kiota-sse", version.ref = "asoft" }
+
 ribix-charts = { module = "tz.co.asoft:ribix-charts", version.ref = "asoft" }
 ribix-changes = { module = "tz.co.asoft:ribix-changes", version.ref = "asoft" }
 
 raven-api = { module = "tz.co.asoft:raven-api", version.ref = "asoft" }
+raven-console = { module = "tz.co.asoft:raven-console", version.ref = "asoft" }
+raven-bus = { module = "tz.co.asoft:raven-bus", version.ref = "asoft" }
 raven-mock = { module = "tz.co.asoft:raven-mock", version.ref = "asoft" }
 raven-smtp = { module = "tz.co.asoft:raven-smtp", version.ref = "asoft" }
 raven-config = { module = "tz.co.asoft:raven-config", version.ref = "asoft" }
@@ -133,7 +138,9 @@ bringer-mock = { module = "tz.co.asoft:bringer-mock", version.ref = "asoft" }
 krest-core = { module = "tz.co.asoft:krest-core", version.ref = "asoft" }
 
 sanity-core = { module = "tz.co.asoft:sanity-core", version.ref = "asoft" }
+sanity-flix = { module = "tz.co.asoft:sanity-flix", version.ref = "asoft" }
 sanity-local = { module = "tz.co.asoft:sanity-local", version.ref = "asoft" }
+sanity-remote = { module = "tz.co.asoft:sanity-remote", version.ref = "asoft" }
 
 koder-core = { module = "tz.co.asoft:koder-core", version.ref = "asoft" }
 
