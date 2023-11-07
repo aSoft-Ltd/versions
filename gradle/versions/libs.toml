@@ -137,6 +137,8 @@ bringer-mock = { module = "tz.co.asoft:bringer-mock", version.ref = "asoft" }
 
 krest-core = { module = "tz.co.asoft:krest-core", version.ref = "asoft" }
 
+grape-mongo = { module = "tz.co.asoft:grape-mongo", version.ref = "asoft" }
+
 sanity-core = { module = "tz.co.asoft:sanity-core", version.ref = "asoft" }
 sanity-flix = { module = "tz.co.asoft:sanity-flix", version.ref = "asoft" }
 sanity-local = { module = "tz.co.asoft:sanity-local", version.ref = "asoft" }
