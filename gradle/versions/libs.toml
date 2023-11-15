@@ -222,17 +222,22 @@ sentinel-enterprise-profile-sdk-client-core = { module = "tz.co.asoft:sentinel-e
 sentinel-enterprise-onboarding-sdk-client-core = { module = "tz.co.asoft:sentinel-enterprise-onboarding-sdk-client-core", version.ref = "asoft" }
 
 
+flame-api-core-entity = { module = "tz.co.asoft:flame-api-core-entity", version.ref = "asoft" }
+flame-api-pione-entity = { module = "com.picortex:flame-api-pione-entity", version.ref = "pione" }
+flame-scenes-entity = { module = "tz.co.asoft:flame-scenes-entity", version.ref = "asoft" }
 
-flame-core = { module = "tz.co.asoft:flame-core", version.ref = "asoft" }
-flame-entity-api-core = { module = "tz.co.asoft:flame-entity-api-core", version.ref = "asoft" }
-flame-entity-api-pione = { module = "tz.co.asoft:flame-entity-api-pione", version.ref = "asoft" }
-flame-entity-sdk-client = { module = "tz.co.asoft:flame-entity-sdk-client", version.ref = "asoft" }
-flame-customers-api-core = { module = "tz.co.asoft:flame-customers-api-core", version.ref = "asoft" }
-flame-customers-api-pione = { module = "tz.co.asoft:flame-customers-api-pione", version.ref = "asoft" }
-flame-customers-sdk-client-core = { module = "tz.co.asoft:flame-customers-sdk-client-core", version.ref = "asoft" }
-flame-suppliers-api-core = { module = "tz.co.asoft:flame-suppliers-api-core", version.ref = "asoft" }
-flame-suppliers-api-pione = { module = "tz.co.asoft:flame-suppliers-api-pione", version.ref = "asoft" }
-flame-suppliers-sdk-client-core = { module = "tz.co.asoft:flame-suppliers-sdk-client-core", version.ref = "asoft" }
+flame-api-core-customers = { module = "tz.co.asoft:flame-api-core-customers", version.ref = "asoft" }
+flame-api-pione-customers = { module = "com.picortex:flame-api-pione-customers", version.ref = "pione" }
+flame-scenes-customers = { module = "tz.co.asoft:flame-scenes-customers", version.ref = "asoft" }
+
+flame-api-core-suppliers = { module = "tz.co.asoft:flame-api-core-suppliers", version.ref = "asoft" }
+flame-api-pione-suppliers = { module = "com.picortex:flame-api-pione-suppliers", version.ref = "pione" }
+flame-scenes-suppliers = { module = "tz.co.asoft:flame-scenes-suppliers", version.ref = "asoft" }
+
+
+flame-api-core-smes = { module = "tz.co.asoft:flame-api-core-smes", version.ref = "asoft" }
+flame-scenes-smes = { module = "tz.co.asoft:flame-scenes-smes", version.ref = "asoft" }
+
 
 stocker-dtos = { module = "tz.co.asoft:stocker-dtos", version.ref = "asoft" }
 stocker-products-dtos = { module = "tz.co.asoft:stocker-products-dtos", version.ref = "asoft" }
