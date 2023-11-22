@@ -1,5 +1,5 @@
 [versions]
-root = "0.0.44"
+root = "0.0.45"
 
 [libraries]
 sdk-core = { module = "com.picortex:picapital-sdk-core", version.ref = "root" }
