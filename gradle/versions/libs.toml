@@ -77,6 +77,8 @@ ribix-changes = { module = "tz.co.asoft:ribix-changes", version.ref = "asoft" }
 
 raven-api = { module = "tz.co.asoft:raven-api", version.ref = "asoft" }
 raven-console = { module = "tz.co.asoft:raven-console", version.ref = "asoft" }
+raven-markup-core = { module = "tz.co.asoft:raven-markup-core", version.ref = "asoft" }
+raven-markup-html = { module = "tz.co.asoft:raven-markup-html", version.ref = "asoft" }
 raven-bus = { module = "tz.co.asoft:raven-bus", version.ref = "asoft" }
 raven-mock = { module = "tz.co.asoft:raven-mock", version.ref = "asoft" }
 raven-smtp = { module = "tz.co.asoft:raven-smtp", version.ref = "asoft" }
@@ -185,6 +187,7 @@ asterina-brand = { module = "tz.co.asoft:asterina-brand", version.ref = "asoft" 
 
 identifier-core = { module = "tz.co.asoft:identifier-core", version.ref = "asoft" }
 identifier-comm = { module = "tz.co.asoft:identifier-comm", version.ref = "asoft" }
+identifier-brands = { module = "tz.co.asoft:identifier-brands", version.ref = "asoft" }
 identifier-fields = { module = "tz.co.asoft:identifier-fields", version.ref = "asoft" }
 identifier-legal-dtos = { module = "tz.co.asoft:identifier-legal-dtos", version.ref = "asoft" }
 identifier-legal-presenters = { module = "tz.co.asoft:identifier-legal-presenters", version.ref = "asoft" }
