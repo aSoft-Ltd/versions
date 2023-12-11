@@ -13,7 +13,7 @@ kollections-atomic = { module = "tz.co.asoft:kollections-atomic", version.ref = 
 kevlar-api = { module = "tz.co.asoft:kevlar-api", version.ref = "asoft" }
 kevlar-core = { module = "tz.co.asoft:kevlar-core", version.ref = "asoft" }
 
-
+kotlinx-exports = { module = "tz.co.asoft:kotlinx-interoperable-exports", version.ref = "asoft" }
 
 kase-possible = { module = "tz.co.asoft:kase-possible", version.ref = "asoft" }
 kase-optional = { module = "tz.co.asoft:kase-optional", version.ref = "asoft" }
@@ -71,6 +71,7 @@ bee-core = { module = "tz.co.asoft:bee-core", version.ref = "asoft" }
 
 kiota-url = { module = "tz.co.asoft:kiota-url", version.ref = "asoft" }
 kiota-sse = { module = "tz.co.asoft:kiota-sse", version.ref = "asoft" }
+kiota-numeral = { module = "tz.co.asoft:kiota-numeral", version.ref = "asoft" }
 
 ribix-charts = { module = "tz.co.asoft:ribix-charts", version.ref = "asoft" }
 ribix-changes = { module = "tz.co.asoft:ribix-changes", version.ref = "asoft" }
