@@ -292,6 +292,10 @@ cellar-purchases-api-pione = { module = "tz.co.asoft:cellar-purchases-api-pione"
 pione-rest = { module = "com.picortex:pione-rest", version.ref = "pione" }
 pione-test = { module = "com.picortex:pione-test", version.ref = "pione" }
 
+lens-financial-api-core = { module = "tz.co.asoft:lens-financial-api-core", version.ref = "asoft" }
+lens-financial-api-pione = { module = "tz.co.asoft:lens-financial-api-pione", version.ref = "asoft" }
+lens-financial-sdk-client-core = { module = "tz.co.asoft:lens-financial-sdk-client-core", version.ref = "asoft" }
+
 [plugins]
 library = { id = "tz.co.asoft.library", version.ref = "asoft" }
 applikation = { id = "tz.co.asoft.applikation", version.ref = "asoft" }
