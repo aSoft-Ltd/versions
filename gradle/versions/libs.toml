@@ -7,7 +7,8 @@ pitwo = "0.2.3"
 kommander-core = { module = "tz.co.asoft:kommander-core", version.ref = "asoft" }
 kommander-coroutines = { module = "tz.co.asoft:kommander-coroutines", version.ref = "asoft" }
 
-kollections-interoperable = { module = "tz.co.asoft:kollections-interoperable", version.ref = "asoft" }
+kollections-interoperable = { module = "tz.co.asoft:kollections-primitive", version.ref = "asoft" } # Remove this after migration to kollections-primitive is complete
+kollections-primitive = { module = "tz.co.asoft:kollections-primitive", version.ref = "asoft" }
 kollections-atomic = { module = "tz.co.asoft:kollections-atomic", version.ref = "asoft" }
 
 kevlar-api = { module = "tz.co.asoft:kevlar-api", version.ref = "asoft" }
