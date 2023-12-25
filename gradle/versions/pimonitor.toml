@@ -1,5 +1,5 @@
 [versions]
-root = "0.0.8"
+root = "0.0.9"
 
 [libraries]
 server-app = { module = "com.picortex:pimonitor-app", version.ref = "root" }
