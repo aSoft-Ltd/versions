@@ -103,6 +103,7 @@ symphony-table = { module = "tz.co.asoft:symphony-table", version.ref = "asoft" 
 symphony-list = { module = "tz.co.asoft:symphony-list", version.ref = "asoft" }
 symphony-collections = { module = "tz.co.asoft:symphony-collections", version.ref = "asoft" }
 symphony-input-core = { module = "tz.co.asoft:symphony-input-core", version.ref = "asoft" }
+symphony-input-sheet = { module = "tz.co.asoft:symphony-input-sheet", version.ref = "asoft" }
 symphony-input-text = { module = "tz.co.asoft:symphony-input-text", version.ref = "asoft" }
 symphony-input-number = { module = "tz.co.asoft:symphony-input-number", version.ref = "asoft" }
 symphony-input-choice = { module = "tz.co.asoft:symphony-input-choice", version.ref = "asoft" }
@@ -131,6 +132,7 @@ kommerce-core = { module = "tz.co.asoft:kommerce-core", version.ref = "asoft" }
 
 klip-api = { module = "tz.co.asoft:klip-api", version.ref = "asoft" }
 klip-browser = { module = "tz.co.asoft:klip-browser", version.ref = "asoft" }
+klip-local = { module = "tz.co.asoft:klip-local", version.ref = "asoft" }
 
 yeti-core = { module = "tz.co.asoft:yeti-core", version.ref = "asoft" }
 
