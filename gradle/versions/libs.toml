@@ -301,6 +301,14 @@ cellar-purchases-presenters = { module = "tz.co.asoft:cellar-purchases-presenter
 cellar-purchases-api-core = { module = "tz.co.asoft:cellar-purchases-api-core", version.ref = "asoft" }
 cellar-purchases-api-pione = { module = "tz.co.asoft:cellar-purchases-api-pione", version.ref = "asoft" }
 
+cellar-squotes-api-core = { module = "tz.co.asoft:cellar-squotes-api-core", version.ref = "asoft" }
+cellar-squotes-api-pione = { module = "tz.co.asoft:cellar-squotes-api-pione", version.ref = "asoft" }
+cellar-squotes-sdk-client-core = { module = "tz.co.asoft:cellar-squotes-sdk-client-core", version.ref = "asoft" }
+
+cellar-srfqs-api-core = { module = "tz.co.asoft:cellar-srfqs-api-core", version.ref = "asoft" }
+cellar-srfqs-api-pione = { module = "tz.co.asoft:cellar-srfqs-api-pione", version.ref = "asoft" }
+cellar-srfqs-sdk-client-core = { module = "tz.co.asoft:cellar-srfqs-sdk-client-core", version.ref = "asoft" }
+
 pione-rest = { module = "com.picortex:pione-rest", version.ref = "pione" }
 pione-test = { module = "com.picortex:pione-test", version.ref = "pione" }
 
