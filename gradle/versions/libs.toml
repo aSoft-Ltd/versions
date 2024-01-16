@@ -198,6 +198,35 @@ identifier-legal-presenters = { module = "tz.co.asoft:identifier-legal-presenter
 identifier-legal-sdk-client-core = { module = "tz.co.asoft:identifier-legal-sdk-client-core", version.ref = "asoft" }
 
 
+sentinel-dtos-reception = { module = "tz.co.asoft:sentinel-dtos-reception", version.ref = "asoft" }
+sentinel-dtos-registration-email = { module = "tz.co.asoft:sentinel-dtos-registration-email", version.ref = "asoft" }
+sentinel-dtos-registration-phone = { module = "tz.co.asoft:sentinel-dtos-registration-phone", version.ref = "asoft" }
+
+sentinel-schemes-registration-core = { module = "tz.co.asoft:sentinel-schemes-registration-core", version.ref = "asoft" }
+sentinel-schemes-registration-email = { module = "tz.co.asoft:sentinel-schemes-registration-email", version.ref = "asoft" }
+sentinel-schemes-registration-phone = { module = "tz.co.asoft:sentinel-schemes-registration-phone", version.ref = "asoft" }
+
+sentinel-schemes-enterprise-authentication-core = { module = "tz.co.asoft:sentinel-schemes-enterprise-authentication-core", version.ref = "asoft" }
+sentinel-schemes-enterprise-authentication-email = { module = "tz.co.asoft:sentinel-schemes-enterprise-authentication-email", version.ref = "asoft" }
+
+sentinel-services-registration-core = { module = "tz.co.asoft:sentinel-services-registration-core", version.ref = "asoft" }
+sentinel-services-registration-email-core = { module = "tz.co.asoft:sentinel-services-registration-email-core", version.ref = "asoft" }
+sentinel-services-registration-email-flix = { module = "tz.co.asoft:sentinel-services-registration-email-flix", version.ref = "asoft" }
+sentinel-services-registration-email-test = { module = "tz.co.asoft:sentinel-services-registration-email-test", version.ref = "asoft" }
+sentinel-services-registration-phone-core = { module = "tz.co.asoft:sentinel-services-registration-phone-core", version.ref = "asoft" }
+sentinel-services-registration-phone-flix = { module = "tz.co.asoft:sentinel-services-registration-phone-flix", version.ref = "asoft" }
+sentinel-services-registration-phone-test = { module = "tz.co.asoft:sentinel-services-registration-phone-test", version.ref = "asoft" }
+
+sentinel-services-enterprise-authentication-core = { module = "tz.co.asoft:sentinel-services-enterprise-authentication-core", version.ref = "asoft" }
+sentinel-services-enterprise-authentication-email = { module = "tz.co.asoft:sentinel-services-enterprise-authentication-email", version.ref = "asoft" }
+
+sentinel-api-registration-core = { module = "tz.co.asoft:sentinel-schemes-registration-core", version.ref = "asoft" }
+sentinel-api-registration-email-core = { module = "tz.co.asoft:sentinel-api-registration-email-core", version.ref = "asoft" }
+sentinel-api-registration-email-flix = { module = "tz.co.asoft:sentinel-api-registration-email-flix", version.ref = "asoft" }
+sentinel-api-registration-email-test = { module = "tz.co.asoft:sentinel-api-registration-email-test", version.ref = "asoft" }
+sentinel-api-registration-phone-core = { module = "tz.co.asoft:sentinel-api-registration-phone-core", version.ref = "asoft" }
+sentinel-api-registration-phone-flix = { module = "tz.co.asoft:sentinel-api-registration-phone-flix", version.ref = "asoft" }
+sentinel-api-registration-phone-test = { module = "tz.co.asoft:sentinel-api-registration-phone-test", version.ref = "asoft" }
 
 sentinel-registration-core = { module = "tz.co.asoft:sentinel-registration-core", version.ref = "asoft" }
 sentinel-registration-flix = { module = "tz.co.asoft:sentinel-registration-flix", version.ref = "asoft" }
