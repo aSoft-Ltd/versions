@@ -218,7 +218,12 @@ sentinel-services-registration-phone-flix = { module = "tz.co.asoft:sentinel-ser
 sentinel-services-registration-phone-test = { module = "tz.co.asoft:sentinel-services-registration-phone-test", version.ref = "asoft" }
 
 sentinel-services-enterprise-authentication-core = { module = "tz.co.asoft:sentinel-services-enterprise-authentication-core", version.ref = "asoft" }
-sentinel-services-enterprise-authentication-email = { module = "tz.co.asoft:sentinel-services-enterprise-authentication-email", version.ref = "asoft" }
+sentinel-services-enterprise-authentication-email-core = { module = "tz.co.asoft:sentinel-services-enterprise-authentication-email-core", version.ref = "asoft" }
+sentinel-services-enterprise-authentication-email-flix = { module = "tz.co.asoft:sentinel-services-enterprise-authentication-email-flix", version.ref = "asoft" }
+sentinel-services-enterprise-authentication-email-test = { module = "tz.co.asoft:sentinel-services-enterprise-authentication-email-test", version.ref = "asoft" }
+
+sentinel-controllers-registration-email = { module = "tz.co.asoft:sentinel-controllers-registration-email", version.ref = "asoft" }
+sentinel-controllers-enterprise-authentication-email = { module = "tz.co.asoft:sentinel-controllers-enterprise-authentication-email", version.ref = "asoft" }
 
 sentinel-api-registration-core = { module = "tz.co.asoft:sentinel-schemes-registration-core", version.ref = "asoft" }
 sentinel-api-registration-email-core = { module = "tz.co.asoft:sentinel-api-registration-email-core", version.ref = "asoft" }
