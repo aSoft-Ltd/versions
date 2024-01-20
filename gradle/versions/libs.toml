@@ -9,6 +9,7 @@ kommander-coroutines = { module = "tz.co.asoft:kommander-coroutines", version.re
 
 kollections-interoperable = { module = "tz.co.asoft:kollections-primitive", version.ref = "asoft" } # Remove this after migration to kollections-primitive is complete
 kollections-primitive = { module = "tz.co.asoft:kollections-primitive", version.ref = "asoft" }
+kollections-stacks = { module = "tz.co.asoft:kollections-stacks", version.ref = "asoft" }
 kollections-atomic = { module = "tz.co.asoft:kollections-atomic", version.ref = "asoft" }
 
 kevlar-api = { module = "tz.co.asoft:kevlar-api", version.ref = "asoft" }
