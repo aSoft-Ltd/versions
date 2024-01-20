@@ -1,5 +1,6 @@
 [versions]
-root = "0.0.97"
+root = "0.0.98"
 
 [libraries]
+schemes = { module = "com.picortex:picapital-schemes", version.ref = "root" }
 sdk-core = { module = "com.picortex:picapital-sdk-core", version.ref = "root" }
