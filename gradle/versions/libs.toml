@@ -301,6 +301,8 @@ flame-scenes-tests-smes = { module = "tz.co.asoft:flame-scenes-tests-smes", vers
 
 flame-sdk-smes = { module = "tz.co.asoft:flame-sdk-smes", version.ref = "asoft" }	
 
+flame-services-smes = { module = "tz.co.asoft:flame-services-smes", version.ref = "asoft" }
+
 
 stocker-dtos = { module = "tz.co.asoft:stocker-dtos", version.ref = "asoft" }
 stocker-products-dtos = { module = "tz.co.asoft:stocker-products-dtos", version.ref = "asoft" }
