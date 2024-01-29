@@ -1,5 +1,5 @@
 [versions]
-root = "0.0.99"
+root = "0.1.00"
 
 [libraries]
 schemes = { module = "com.picortex:pimonitor-schemes", version.ref = "root" }
