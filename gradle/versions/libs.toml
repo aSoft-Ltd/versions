@@ -311,6 +311,21 @@ flame-sdk-smes = { module = "tz.co.asoft:flame-sdk-smes", version.ref = "asoft" 
 flame-services-smes = { module = "tz.co.asoft:flame-services-smes", version.ref = "asoft" }
 
 
+funding-schemes = { module = "com.picortex:funding-schemes", version.ref = "pitwo" }
+funding-dtos = { module = "com.picortex:funding-dtos", version.ref = "pitwo" }
+funding-services-core = { module = "com.picortex:funding-services-core", version.ref = "pitwo" }
+funding-services-tests = { module = "com.picortex:funding-services-tests", version.ref = "pitwo" }
+funding-services-flix = { module = "com.picortex:funding-services-flix", version.ref = "pitwo" }
+
+funding-controllers = { module = "com.picortex:funding-controllers", version.ref = "pitwo" }
+
+funding-api-core = { module = "com.picortex:funding-api-core", version.ref = "pitwo" }
+funding-api-flix = { module = "com.picortex:funding-api-flix", version.ref = "pitwo" }
+funding-api-test = { module = "com.picortex:funding-api-test", version.ref = "pitwo" }
+
+funding-scenes-core = { module = "com.picortex:funding-scenes-core", version.ref = "pitwo" }
+funding-scenes-test = { module = "com.picortex:funding-scenes-test", version.ref = "pitwo" }
+
 stocker-dtos = { module = "tz.co.asoft:stocker-dtos", version.ref = "asoft" }
 stocker-products-dtos = { module = "tz.co.asoft:stocker-products-dtos", version.ref = "asoft" }
 stocker-products-presenters = { module = "tz.co.asoft:stocker-products-presenters", version.ref = "asoft" }
