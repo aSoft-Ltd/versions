@@ -229,24 +229,31 @@ sentinel-controllers-enterprise-authentication-email = { module = "tz.co.asoft:s
 sentinel-api-registration-core = { module = "tz.co.asoft:sentinel-api-registration-core", version.ref = "asoft" }
 sentinel-api-registration-email-core = { module = "tz.co.asoft:sentinel-api-registration-email-core", version.ref = "asoft" }
 sentinel-api-registration-email-flix = { module = "tz.co.asoft:sentinel-api-registration-email-flix", version.ref = "asoft" }
+sentinel-api-registration-email-pione = { module = "tz.co.asoft:sentinel-api-registration-email-pione", version.ref = "pione" }
 sentinel-api-registration-email-test = { module = "tz.co.asoft:sentinel-api-registration-email-test", version.ref = "asoft" }
 sentinel-api-registration-phone-core = { module = "tz.co.asoft:sentinel-api-registration-phone-core", version.ref = "asoft" }
 sentinel-api-registration-phone-flix = { module = "tz.co.asoft:sentinel-api-registration-phone-flix", version.ref = "asoft" }
 sentinel-api-registration-phone-test = { module = "tz.co.asoft:sentinel-api-registration-phone-test", version.ref = "asoft" }
 
-sentinel-api-enterprise-authentication-core = { module = "tz.co.asoft:sentinel-enterprise-authentication-core", version.ref = "asoft" }
+sentinel-api-enterprise-authentication-core = { module = "tz.co.asoft:sentinel-api-enterprise-authentication-core", version.ref = "asoft" }
 sentinel-api-enterprise-authentication-email-core = { module = "tz.co.asoft:sentinel-api-enterprise-authentication-email-core", version.ref = "asoft" }
 sentinel-api-enterprise-authentication-email-flix = { module = "tz.co.asoft:sentinel-api-enterprise-authentication-email-flix", version.ref = "asoft" }
+sentinel-api-enterprise-authentication-email-pione = { module = "tz.co.asoft:sentinel-api-enterprise-authentication-email-pione", version.ref = "pione" }
 sentinel-api-enterprise-authentication-email-test = { module = "tz.co.asoft:sentinel-api-enterprise-authentication-email-test", version.ref = "asoft" }
 sentinel-api-enterprise-authentication-phone-core = { module = "tz.co.asoft:sentinel-api-enterprise-authentication-phone-core", version.ref = "asoft" }
 sentinel-api-enterprise-authentication-phone-flix = { module = "tz.co.asoft:sentinel-api-enterprise-authentication-phone-flix", version.ref = "asoft" }
 sentinel-api-enterprise-authentication-phone-test = { module = "tz.co.asoft:sentinel-api-enterprise-authentication-phone-test", version.ref = "asoft" }
+
+sentinel-api-enterprise-profile-core = { module = "tz.co.asoft:sentinel-api-enterprise-profile-core", version.ref = "asoft" }
+sentinel-api-enterprise-profile-pione = { module = "tz.co.asoft:sentinel-api-enterprise-profile-pione", version.ref = "pione" }
 
 
 sentinel-scenes-registration-email-core = { module = "tz.co.asoft:sentinel-scenes-registration-email-core", version.ref = "asoft" }
 sentinel-scenes-registration-email-test = { module = "tz.co.asoft:sentinel-scenes-registration-email-test", version.ref = "asoft" }
 sentinel-scenes-enterprise-authentication-email-core = { module = "tz.co.asoft:sentinel-scenes-enterprise-authentication-email-core", version.ref = "asoft" }
 sentinel-scenes-enterprise-authentication-email-test = { module = "tz.co.asoft:sentinel-scenes-enterprise-authentication-email-test", version.ref = "asoft" }
+sentinel-scenes-enterprise-profile-core = { module = "tz.co.asoft:sentinel-scenes-enterprise-profile-core", version.ref = "asoft" }
+sentinel-scenes-enterprise-onboarding-core = { module = "tz.co.asoft:sentinel-scenes-enterprise-onboarding-core", version.ref = "asoft" }
 
 sentinel-registration-core = { module = "tz.co.asoft:sentinel-registration-core", version.ref = "asoft" }
 sentinel-registration-flix = { module = "tz.co.asoft:sentinel-registration-flix", version.ref = "asoft" }
@@ -301,6 +308,23 @@ flame-scenes-tests-smes = { module = "tz.co.asoft:flame-scenes-tests-smes", vers
 
 flame-sdk-smes = { module = "tz.co.asoft:flame-sdk-smes", version.ref = "asoft" }	
 
+flame-services-smes = { module = "tz.co.asoft:flame-services-smes", version.ref = "asoft" }
+
+
+funding-schemes = { module = "com.picortex:funding-schemes", version.ref = "pitwo" }
+funding-dtos = { module = "com.picortex:funding-dtos", version.ref = "pitwo" }
+funding-services-core = { module = "com.picortex:funding-services-core", version.ref = "pitwo" }
+funding-services-tests = { module = "com.picortex:funding-services-tests", version.ref = "pitwo" }
+funding-services-flix = { module = "com.picortex:funding-services-flix", version.ref = "pitwo" }
+
+funding-controllers = { module = "com.picortex:funding-controllers", version.ref = "pitwo" }
+
+funding-api-core = { module = "com.picortex:funding-api-core", version.ref = "pitwo" }
+funding-api-flix = { module = "com.picortex:funding-api-flix", version.ref = "pitwo" }
+funding-api-test = { module = "com.picortex:funding-api-test", version.ref = "pitwo" }
+
+funding-scenes-core = { module = "com.picortex:funding-scenes-core", version.ref = "pitwo" }
+funding-scenes-test = { module = "com.picortex:funding-scenes-test", version.ref = "pitwo" }
 
 stocker-dtos = { module = "tz.co.asoft:stocker-dtos", version.ref = "asoft" }
 stocker-products-dtos = { module = "tz.co.asoft:stocker-products-dtos", version.ref = "asoft" }
