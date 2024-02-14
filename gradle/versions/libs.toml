@@ -1,5 +1,5 @@
 [versions]
-asoft = "3.0.3"
+asoft = "3.0.4"
 pione = "0.0.0"
 pitwo = "0.2.3"
 
@@ -111,10 +111,10 @@ symphony-input-choice = { module = "tz.co.asoft:symphony-input-choice", version.
 symphony-input-list = { module = "tz.co.asoft:symphony-input-list", version.ref = "asoft" }
 symphony-input-dialog = { module = "tz.co.asoft:symphony-input-dialog", version.ref = "asoft" }
 
-epsilon-api-core = { module = "tz.co.asoft:epsilon-api-core", version.ref = "asoft" }
-epsilon-api-fake = { module = "tz.co.asoft:epsilon-api-fake", version.ref = "asoft" }
-epsilon-api-file = { module = "tz.co.asoft:epsilon-api-file", version.ref = "asoft" }
-epsilon-api-network = { module = "tz.co.asoft:epsilon-api-network", version.ref = "asoft" }
+epsilon-api-core = { module = "tz.co.asoft:epsilon-core", version.ref = "asoft" }
+epsilon-api-fake = { module = "tz.co.asoft:epsilon-fake", version.ref = "asoft" }
+epsilon-api-file = { module = "tz.co.asoft:epsilon-file", version.ref = "asoft" }
+epsilon-api-network = { module = "tz.co.asoft:epsilon-network", version.ref = "asoft" }
 epsilon-file-fields = { module = "tz.co.asoft:epsilon-file-fields", version.ref = "asoft" }
 epsilon-image-core = { module = "tz.co.asoft:epsilon-image-core", version.ref = "asoft" }
 epsilon-image-web = { module = "tz.co.asoft:epsilon-image-web", version.ref = "asoft" }
