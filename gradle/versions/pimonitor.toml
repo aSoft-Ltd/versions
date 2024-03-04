@@ -3,4 +3,5 @@ root = "0.1.08"
 
 [libraries]
 schemes = { module = "com.picortex:pimonitor-schemes", version.ref = "root" }
+capital-sdk-test = { module = "com.picortex:picapital-sdk-test", version.ref = "root" }
 server-app = { module = "com.picortex:pimonitor-app", version.ref = "root" }
