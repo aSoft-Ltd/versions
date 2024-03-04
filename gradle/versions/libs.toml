@@ -333,6 +333,8 @@ stocker-products-api-core = { module = "tz.co.asoft:stocker-products-api-core", 
 stocker-products-api-pione = { module = "tz.co.asoft:stocker-products-api-pione", version.ref = "asoft" }
 stocker-products-sdk-client-core = { module = "tz.co.asoft:stocker-products-sdk-client-core", version.ref = "asoft" }
 
+stocker-inventory-sdk-client-core = { module = "tz.co.asoft:stocker-inventory-sdk-client-core", version.ref = "asoft" }
+
 cellar-indentures-dtos = { module = "tz.co.asoft:cellar-indentures-dtos", version.ref = "asoft" }
 cellar-indentures-presenters = { module = "tz.co.asoft:cellar-indentures-presenters", version.ref = "asoft" }
 cellar-indentures-api-core = { module = "tz.co.asoft:cellar-indentures-api-core", version.ref = "asoft" }
