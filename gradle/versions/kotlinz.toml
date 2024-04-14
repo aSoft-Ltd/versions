@@ -1,7 +1,7 @@
 [versions]
-kotlin = "2.0.0-Beta1" # "1.9.21"
-compose = "1.6.0-alpha01" # "1.5.11" # "1.5.3" this is the jetbrains compose version
-compose-compiler = "1.5.4-dev1-kt2.0.0-Beta1" # "1.5.4" #"1.5.3" https://maven.pkg.jetbrains.space/public/p/compose/dev
+kotlin = "2.0.0-RC1" #"2.0.0-Beta1" # "1.9.21"
+compose = "1.6.2" #"1.6.0-alpha01" # this is the jetbrains compose version
+compose-compiler = "1.5.11-kt-2.0.0-RC1" # "1.5.4-dev1-kt2.0.0-Beta1" # https://maven.pkg.jetbrains.space/public/p/compose/dev/org/jetbrains/compose/compiler/compiler/
 dokka = "1.9.0"
 
 [libraries]
