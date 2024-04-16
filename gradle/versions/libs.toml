@@ -283,6 +283,7 @@ sentinel-enterprise-profile-sdk-client-core = { module = "tz.co.asoft:sentinel-e
 sentinel-enterprise-onboarding-sdk-client-core = { module = "tz.co.asoft:sentinel-enterprise-onboarding-sdk-client-core", version.ref = "asoft" }
 
 
+flame-dtos-smes = { module = "tz.co.asoft:flame-dtos-smes", version.ref = "asoft" }
 flame-schemes-smes = { module = "tz.co.asoft:flame-schemes-smes", version.ref = "asoft" }
 
 flame-api-core-entity = { module = "tz.co.asoft:flame-api-entity", version.ref = "asoft" }
