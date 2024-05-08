@@ -162,6 +162,7 @@ captain-router-compose-core = { module = "tz.co.asoft:captain-router-compose-cor
 captain-router-compose-html = { module = "tz.co.asoft:captain-router-compose-html", version.ref = "asoft" }
 
 cabinet-api-core = { module = "tz.co.asoft:cabinet-api-core", version.ref = "asoft" }
+cabinet-presenters = { module = "tz.co.asoft:cabinet-api-presenters", version.ref = "asoft" }
 cabinet-api-pione = { module = "tz.co.asoft:cabinet-api-pione", version.ref = "asoft" }
 cabinet-client-scenes = { module = "tz.co.asoft:cabinet-client-scenes", version.ref = "asoft" }
 
