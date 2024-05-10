@@ -390,6 +390,10 @@ lens-financial-api-core = { module = "tz.co.asoft:lens-financial-api-core", vers
 lens-financial-api-pione = { module = "tz.co.asoft:lens-financial-api-pione", version.ref = "asoft" }
 lens-financial-sdk-client-core = { module = "tz.co.asoft:lens-financial-sdk-client-core", version.ref = "asoft" }
 
+subscript-subs-api-core = { module = "tz.co.asoft:subscript-subs-api-core", version.ref = "asoft" }
+subscript-subs-api-pione = { module = "tz.co.asoft:subscript-subs-api-pione", version.ref = "asoft" }
+subscript-subs-sdk-client-core = { module = "tz.co.asoft:subscript-subs-sdk-client-core", version.ref = "asoft" }
+
 [plugins]
 library = { id = "tz.co.asoft.library", version.ref = "asoft" }
 applikation = { id = "tz.co.asoft.applikation", version.ref = "asoft" }
