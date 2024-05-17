@@ -161,6 +161,9 @@ captain-router-react-dom = { module = "tz.co.asoft:captain-router-react-dom", ve
 captain-router-compose-core = { module = "tz.co.asoft:captain-router-compose-core", version.ref = "asoft" }
 captain-router-compose-html = { module = "tz.co.asoft:captain-router-compose-html", version.ref = "asoft" }
 
+status-core = { module = "tz.co.asoft:status-core", version.ref = "asoft" }
+status-scenes = { module = "tz.co.asoft:status-scenes", version.ref = "asoft" }
+
 cabinet-api-core = { module = "tz.co.asoft:cabinet-api-core", version.ref = "asoft" }
 cabinet-presenters = { module = "tz.co.asoft:cabinet-api-presenters", version.ref = "asoft" }
 cabinet-api-pione = { module = "tz.co.asoft:cabinet-api-pione", version.ref = "asoft" }
