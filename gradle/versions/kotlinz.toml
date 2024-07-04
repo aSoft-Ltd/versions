@@ -1,6 +1,6 @@
 [versions]
-kotlin = "2.0.0-RC1" #"2.0.0-Beta1" # "1.9.21"
-compose = "1.6.2" #"1.6.0-alpha01" # this is the jetbrains compose version
+kotlin = "2.0.0" #"2.0.0-RC1" #"2.0.0-Beta1" # "1.9.21"
+compose = "1.6.11" #"1.6.2" #"1.6.0-alpha01" # this is the jetbrains compose version
 compose-compiler = "1.5.11-kt-2.0.0-RC1" # "1.5.4-dev1-kt2.0.0-Beta1" # https://maven.pkg.jetbrains.space/public/p/compose/dev/org/jetbrains/compose/compiler/compiler/
 dokka = "1.9.0"
 
@@ -9,6 +9,8 @@ gradle-plugin = { module = "org.jetbrains.kotlin:kotlin-gradle-plugin", version.
 
 [plugins]
 root-multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
+root-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+root-compiler-compose = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
 root-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
 
 multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
