@@ -110,6 +110,7 @@ symphony-input-number = { module = "tz.co.asoft:symphony-input-number", version.
 symphony-input-choice = { module = "tz.co.asoft:symphony-input-choice", version.ref = "asoft" }
 symphony-input-list = { module = "tz.co.asoft:symphony-input-list", version.ref = "asoft" }
 symphony-input-dialog = { module = "tz.co.asoft:symphony-input-dialog", version.ref = "asoft" }
+symphony-input-finance = { module = "tz.co.asoft:symphony-input-finance", version.ref = "asoft" }
 
 epsilon-core = { module = "tz.co.asoft:epsilon-core", version.ref = "asoft" }
 epsilon-fields = { module = "tz.co.asoft:epsilon-fields", version.ref = "asoft" }
