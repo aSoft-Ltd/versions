@@ -1,6 +1,6 @@
 [versions]
 #bom = "1.0.0-pre.480"
-bom = "1.0.0-pre.554"
+bom = "1.0.0-pre.780"
 react-types="^18.1.4"
 
 [libraries]
