@@ -5,6 +5,7 @@ ktor = "3.0.0-beta-2" # "2.3.12" # "2.3.5"
 client-core = { module = "io.ktor:ktor-client-core", version.ref = "ktor" }
 client-cio = { module = "io.ktor:ktor-client-cio", version.ref = "ktor" }
 client-js = { module = "io.ktor:ktor-client-js", version.ref = "ktor" }
+client-darwin = { module = "io.ktor:ktor-client-darwin", version.ref = "ktor" }
 http = { module = "io.ktor:ktor-http", version.ref = "ktor" }
 html = { module = "io.ktor:ktor-server-html-builder", version.ref = "ktor" }
 
