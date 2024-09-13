@@ -1,5 +1,5 @@
 [versions]
-okio = "3.6.0" # "3.3.0"
+okio = "3.9.1" # "3.6.0"
 
 [libraries]
 okio-core = { module = "com.squareup.okio:okio", version.ref = "okio" }
