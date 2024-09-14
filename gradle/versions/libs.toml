@@ -17,6 +17,8 @@ kevlar-core = { module = "tz.co.asoft:kevlar-core", version.ref = "asoft" }
 
 kotlinx-exports = { module = "tz.co.asoft:kotlinx-interoperable-exports", version.ref = "asoft" }
 
+habitat-core = { module = "tz.co.asoft:habitat-core", version.ref = "asoft" }
+
 kase-possible = { module = "tz.co.asoft:kase-possible", version.ref = "asoft" }
 kase-optional = { module = "tz.co.asoft:kase-optional", version.ref = "asoft" }
 kase-core = { module = "tz.co.asoft:kase-core", version.ref = "asoft" }
@@ -25,7 +27,9 @@ kase-response-core = { module = "tz.co.asoft:kase-response-core", version.ref = 
 kase-response-ktor-client = { module = "tz.co.asoft:kase-response-ktor-client", version.ref = "asoft" }
 kase-response-ktor-server = { module = "tz.co.asoft:kase-response-ktor-server", version.ref = "asoft" }
 
-
+response-core = { module = "tz.co.asoft:response-core", version.ref = "asoft" }
+response-ktor-client = { module = "tz.co.asoft:response-ktor-client", version.ref = "asoft" }
+response-ktor-server = { module = "tz.co.asoft:response-ktor-server", version.ref = "asoft" }
 
 koncurrent-executors-core = { module = "tz.co.asoft:koncurrent-executors-core", version.ref = "asoft" }
 koncurrent-executors-coroutines = { module = "tz.co.asoft:koncurrent-executors-coroutines", version.ref = "asoft" }
