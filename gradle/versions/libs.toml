@@ -17,6 +17,8 @@ kevlar-core = { module = "tz.co.asoft:kevlar-core", version.ref = "asoft" }
 
 kotlinx-exports = { module = "tz.co.asoft:kotlinx-interoperable-exports", version.ref = "asoft" }
 
+habitat-core = { module = "tz.co.asoft:habitat-core", version.ref = "asoft" }
+
 kase-possible = { module = "tz.co.asoft:kase-possible", version.ref = "asoft" }
 kase-optional = { module = "tz.co.asoft:kase-optional", version.ref = "asoft" }
 kase-core = { module = "tz.co.asoft:kase-core", version.ref = "asoft" }
