@@ -1,5 +1,5 @@
 [versions]
-asoft = "3.0.11"
+asoft = "3.0.12"
 pione = "0.0.0"
 pitwo = "0.2.3"
 
@@ -25,7 +25,9 @@ kase-response-core = { module = "tz.co.asoft:kase-response-core", version.ref = 
 kase-response-ktor-client = { module = "tz.co.asoft:kase-response-ktor-client", version.ref = "asoft" }
 kase-response-ktor-server = { module = "tz.co.asoft:kase-response-ktor-server", version.ref = "asoft" }
 
-
+response-core = { module = "tz.co.asoft:response-core", version.ref = "asoft" }
+response-ktor-client = { module = "tz.co.asoft:response-ktor-client", version.ref = "asoft" }
+response-ktor-server = { module = "tz.co.asoft:response-ktor-server", version.ref = "asoft" }
 
 koncurrent-executors-core = { module = "tz.co.asoft:koncurrent-executors-core", version.ref = "asoft" }
 koncurrent-executors-coroutines = { module = "tz.co.asoft:koncurrent-executors-coroutines", version.ref = "asoft" }
@@ -97,6 +99,13 @@ raven-bus = { module = "tz.co.asoft:raven-bus", version.ref = "asoft" }
 raven-mock = { module = "tz.co.asoft:raven-mock", version.ref = "asoft" }
 raven-smtp = { module = "tz.co.asoft:raven-smtp", version.ref = "asoft" }
 raven-config = { module = "tz.co.asoft:raven-config", version.ref = "asoft" }
+
+
+nation-countries = { module = "tz.co.asoft:nation-countries", version.ref = "asoft" }
+nation-currencies = { module = "tz.co.asoft:nation-currencies", version.ref = "asoft" }
+nation-flags-compose = { module = "tz.co.asoft:nation-flags-compose", version.ref = "asoft" }
+
+sim-core = { module = "tz.co.asoft:sim-core", version.ref = "asoft" }
 
 akkounts-core = { module = "tz.co.asoft:akkounts-core", version.ref = "asoft" }
 akkounts-sage-core = { module = "tz.co.asoft:akkounts-sage-core", version.ref = "asoft" }
@@ -324,7 +333,7 @@ flame-scenes-tests-customers = { module = "tz.co.asoft:flame-scenes-tests-custom
 flame-scenes-tests-suppliers = { module = "tz.co.asoft:flame-scenes-tests-suppliers", version.ref = "asoft" }
 flame-scenes-tests-smes = { module = "tz.co.asoft:flame-scenes-tests-smes", version.ref = "asoft" }
 
-flame-sdk-smes = { module = "tz.co.asoft:flame-sdk-smes", version.ref = "asoft" }	
+flame-sdk-smes = { module = "tz.co.asoft:flame-sdk-smes", version.ref = "asoft" }
 
 flame-services-smes = { module = "tz.co.asoft:flame-services-smes", version.ref = "asoft" }
 
