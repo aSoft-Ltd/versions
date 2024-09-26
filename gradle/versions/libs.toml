@@ -1,5 +1,6 @@
 [versions]
 asoft = "3.0.12"
+legacy = "2.0.18"
 pione = "0.0.0"
 pitwo = "0.2.3"
 
@@ -103,11 +104,11 @@ raven-smtp = { module = "tz.co.asoft:raven-smtp", version.ref = "asoft" }
 raven-config = { module = "tz.co.asoft:raven-config", version.ref = "asoft" }
 
 
-nation-countries = { module = "tz.co.asoft:nation-countries", version.ref = "asoft" }
-nation-currencies = { module = "tz.co.asoft:nation-currencies", version.ref = "asoft" }
-nation-flags-compose = { module = "tz.co.asoft:nation-flags-compose", version.ref = "asoft" }
+nation-countries = { module = "tz.co.asoft:nation-countries", version.ref = "legacy" }
+nation-currencies = { module = "tz.co.asoft:nation-currencies", version.ref = "legacy" }
+nation-flags-compose = { module = "tz.co.asoft:nation-flags-compose", version.ref = "legacy" }
 
-sim-core = { module = "tz.co.asoft:sim-core", version.ref = "asoft" }
+sim-core = { module = "tz.co.asoft:sim-core", version.ref = "legacy" }
 
 akkounts-core = { module = "tz.co.asoft:akkounts-core", version.ref = "asoft" }
 akkounts-sage-core = { module = "tz.co.asoft:akkounts-sage-core", version.ref = "asoft" }
@@ -130,6 +131,7 @@ symphony-input-sheet = { module = "tz.co.asoft:symphony-input-sheet", version.re
 symphony-input-text = { module = "tz.co.asoft:symphony-input-text", version.ref = "asoft" }
 symphony-input-number = { module = "tz.co.asoft:symphony-input-number", version.ref = "asoft" }
 symphony-input-choice = { module = "tz.co.asoft:symphony-input-choice", version.ref = "asoft" }
+symphony-input-phone = { module = "tz.co.asoft:symphony-input-phone", version.ref = "asoft" }
 symphony-input-list = { module = "tz.co.asoft:symphony-input-list", version.ref = "asoft" }
 symphony-input-dialog = { module = "tz.co.asoft:symphony-input-dialog", version.ref = "asoft" }
 symphony-input-finance = { module = "tz.co.asoft:symphony-input-finance", version.ref = "asoft" }
@@ -139,6 +141,7 @@ majestic-input-core = { module = "tz.co.asoft:majestic-input-core", version.ref 
 majestic-input-text = { module = "tz.co.asoft:majestic-input-text", version.ref = "asoft" }
 majestic-input-choice = { module = "tz.co.asoft:majestic-input-choice", version.ref = "asoft" }
 majestic-input-color = { module = "tz.co.asoft:majestic-input-color", version.ref = "asoft" }
+majestic-input-phone = { module = "tz.co.asoft:majestic-input-phone", version.ref = "asoft" }
 
 epsilon-core = { module = "tz.co.asoft:epsilon-core", version.ref = "asoft" }
 epsilon-fields = { module = "tz.co.asoft:epsilon-fields", version.ref = "asoft" }
