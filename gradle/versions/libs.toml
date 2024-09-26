@@ -1,6 +1,5 @@
 [versions]
-asoft = "3.0.12"
-legacy = "2.0.18"
+asoft = "3.0.13"
 pione = "0.0.0"
 pitwo = "0.2.3"
 
@@ -104,11 +103,11 @@ raven-smtp = { module = "tz.co.asoft:raven-smtp", version.ref = "asoft" }
 raven-config = { module = "tz.co.asoft:raven-config", version.ref = "asoft" }
 
 
-nation-countries = { module = "tz.co.asoft:nation-countries", version.ref = "legacy" }
-nation-currencies = { module = "tz.co.asoft:nation-currencies", version.ref = "legacy" }
-nation-flags-compose = { module = "tz.co.asoft:nation-flags-compose", version.ref = "legacy" }
+nation-countries = { module = "tz.co.asoft:nation-countries", version.ref = "asoft" }
+nation-currencies = { module = "tz.co.asoft:nation-currencies", version.ref = "asoft" }
+nation-flags-compose = { module = "tz.co.asoft:nation-flags-compose", version.ref = "asoft" }
 
-sim-core = { module = "tz.co.asoft:sim-core", version.ref = "legacy" }
+sim-core = { module = "tz.co.asoft:sim-core", version.ref = "asoft" }
 
 akkounts-core = { module = "tz.co.asoft:akkounts-core", version.ref = "asoft" }
 akkounts-sage-core = { module = "tz.co.asoft:akkounts-sage-core", version.ref = "asoft" }
