@@ -93,10 +93,12 @@ raven-outbox-local = { module = "tz.co.asoft:raven-outbox-local", version.ref = 
 raven-sms-config = { module = "tz.co.asoft:raven-sms-config", version.ref = "asoft" }
 raven-sms-kila = { module = "tz.co.asoft:raven-sms-kila", version.ref = "asoft" }
 raven-sms-console = { module = "tz.co.asoft:raven-sms-console", version.ref = "asoft" }
-raven-email-config = { module = "tz.co.asoft:raven-email-config", version.ref = "asoft" }
-raven-email-brevo = { module = "tz.co.asoft:raven-email-brevo", version.ref = "asoft" }
-raven-email-console = { module = "tz.co.asoft:raven-email-console", version.ref = "asoft" }
+raven-email-agent-config = { module = "tz.co.asoft:raven-email-agent-config", version.ref = "asoft" }
+raven-email-agent-brevo = { module = "tz.co.asoft:raven-email-agent-brevo", version.ref = "asoft" }
+raven-email-agent-postmark = { module = "tz.co.asoft:raven-email-agent-postmark", version.ref = "asoft" }
+raven-email-agent-console = { module = "tz.co.asoft:raven-email-agent-console", version.ref = "asoft" }
 raven-email-markup = { module = "tz.co.asoft:raven-email-markup", version.ref = "asoft" }
+raven-email-resources-file = { module = "tz.co.asoft:raven-email-resources-file", version.ref = "asoft" }
 raven-bus = { module = "tz.co.asoft:raven-bus", version.ref = "asoft" }
 raven-mock = { module = "tz.co.asoft:raven-mock", version.ref = "asoft" }
 raven-smtp = { module = "tz.co.asoft:raven-smtp", version.ref = "asoft" }
