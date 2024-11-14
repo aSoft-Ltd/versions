@@ -138,6 +138,7 @@ symphony-input-dialog = { module = "tz.co.asoft:symphony-input-dialog", version.
 symphony-input-finance = { module = "tz.co.asoft:symphony-input-finance", version.ref = "asoft" }
 
 majestic-core = { module = "tz.co.asoft:majestic-core", version.ref = "asoft" }
+majestic-theme = { module = "tz.co.asoft:majestic-theme", version.ref = "asoft" }
 majestic-input-core = { module = "tz.co.asoft:majestic-input-core", version.ref = "asoft" }
 majestic-input-text = { module = "tz.co.asoft:majestic-input-text", version.ref = "asoft" }
 majestic-input-choice = { module = "tz.co.asoft:majestic-input-choice", version.ref = "asoft" }
