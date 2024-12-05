@@ -398,6 +398,10 @@ subscript-subs-api-core = { module = "tz.co.asoft:subscript-subs-api-core", vers
 subscript-subs-api-pione = { module = "tz.co.asoft:subscript-subs-api-pione", version.ref = "asoft" }
 subscript-subs-sdk-client-core = { module = "tz.co.asoft:subscript-subs-sdk-client-core", version.ref = "asoft" }
 
+insider-teams-api-core = { module = "tz.co.asoft:insider-teams-api-core", version.ref = "asoft" }
+insider-teams-api-pione = { module = "tz.co.asoft:insider-teams-api-pione", version.ref = "asoft" }
+insider-teams-sdk-client-core = { module = "tz.co.asoft:insider-teams-sdk-client-core", version.ref = "asoft" }
+
 [plugins]
 library = { id = "tz.co.asoft.library", version.ref = "asoft" }
 applikation = { id = "tz.co.asoft.applikation", version.ref = "asoft" }
