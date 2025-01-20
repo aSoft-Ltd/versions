@@ -1,5 +1,5 @@
 [versions]
-asoft = "3.0.14"
+asoft = "3.0.15"
 pione = "0.0.0"
 pitwo = "0.2.3"
 
@@ -139,6 +139,7 @@ symphony-input-finance = { module = "tz.co.asoft:symphony-input-finance", versio
 
 majestic-core = { module = "tz.co.asoft:majestic-core", version.ref = "asoft" }
 majestic-theme = { module = "tz.co.asoft:majestic-theme", version.ref = "asoft" }
+majestic-table = { module = "tz.co.asoft:majestic-table", version.ref = "asoft" }
 majestic-input-core = { module = "tz.co.asoft:majestic-input-core", version.ref = "asoft" }
 majestic-input-text = { module = "tz.co.asoft:majestic-input-text", version.ref = "asoft" }
 majestic-input-choice = { module = "tz.co.asoft:majestic-input-choice", version.ref = "asoft" }

@@ -1,14 +1,15 @@
 [versions]
-atomicfu = "0.23.1" # https://maven.pkg.jetbrains.space/kotlin/p/wasm/experimental/org/jetbrains/kotlinx/atomicfu/
+atomicfu = "0.27.0" # "0.23.1" # https://maven.pkg.jetbrains.space/kotlin/p/wasm/experimental/org/jetbrains/kotlinx/atomicfu/
 coroutines = "1.8.0" # "1.7.3"
 serialization = "1.6.2"
-datetime = "0.5.0"
+datetime = "0.6.1" # "0.5.0"
 toml = "0.3.6"
 html = "0.11.0"
 yaml = "0.12.0"
 cli = "0.3.5"
 bson = "0.5.0"
 coil = "3.0.0-rc01"
+browser = "0.3"
 
 [libraries]
 cli = { module="org.jetbrains.kotlinx:kotlinx-cli", version.ref = "cli" }
@@ -27,7 +28,11 @@ serialization-yaml = { module = "net.mamoe.yamlkt:yamlkt", version.ref = "yaml" 
 serialization-toml = { module = "net.peanuuutz.tomlkt:tomlkt", version.ref = "toml" }
 
 datetime = { module = "org.jetbrains.kotlinx:kotlinx-datetime", version.ref = "datetime" }
+browser =  { module = "org.jetbrains.kotlinx:kotlinx-browser", version.ref = "browser" }
 
 coil-compose = { module = "io.coil-kt.coil3:coil-compose", version.ref = "coil" }
 coil-network-ktor2 = { module = "io.coil-kt.coil3:coil-network-ktor2", version.ref = "coil" }
 coil-network-ktor3 = { module = "io.coil-kt.coil3:coil-network-ktor3", version.ref = "coil" }
+
+[plugins]
+atomicfu = { id = "org.jetbrains.kotlinx.atomicfu", version.ref = "atomicfu" }
