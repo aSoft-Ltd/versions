@@ -1,11 +1,10 @@
 [versions]
 agp = "8.2.0" # "8.1.0" # "7.4.0"
 lifecycle = "2.6.2" # "2.4.0"
-<<<<<<< HEAD
+
 compile-sdk = "35"
-=======
-compile-sdk = "34"
->>>>>>> main
+
+#compile-sdk = "34"
 activity = "1.10.1"
 
 [libraries]

@@ -1,9 +1,5 @@
 [versions]
-<<<<<<< HEAD
-kotlin =  "2.1.0-RC2" #"2.1.20-RC2" # "2.0.10" " is problematic 2.1.20-Beta1" #
-=======
 kotlin = "2.1.20" # "2.1.0-RC2" # "2.0.10"
->>>>>>> main
 compose = "1.7.3"
 compose-compiler = "1.5.11-kt-2.0.0-RC1"
 dokka = "1.9.0"
