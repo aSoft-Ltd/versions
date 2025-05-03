@@ -8,6 +8,7 @@ compile-sdk = "35"
 activity-ktx = { module = "androidx.activity:activity-ktx", version.ref = "activity" }
 lifecycle-viewmodel-ktx = { module = "androidx.lifecycle:lifecycle-viewmodel-ktx", version.ref = "lifecycle" }
 lifecycle-viewmodel-compose = { module = "androidx.lifecycle:lifecycle-viewmodel-compose", version.ref = "lifecycle" }
+activity-ktx = { module = "androidx.activity:activity-ktx", version.ref = "activity" }
 gradle-plugin = { module = "com.android.tools.build:gradle", version.ref = "agp" }
 
 [plugins]
