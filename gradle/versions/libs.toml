@@ -77,6 +77,9 @@ bee-core = { module = "tz.co.asoft:bee-core", version.ref = "asoft" }
 
 kiota-url = { module = "tz.co.asoft:kiota-url", version.ref = "asoft" }
 kiota-sse = { module = "tz.co.asoft:kiota-sse", version.ref = "asoft" }
+kiota-file-manager-core = { module = "tz.co.asoft:kiota-file-manager-core", version.ref = "asoft" }
+kiota-file-manager-system = { module = "tz.co.asoft:kiota-file-manager-system", version.ref = "asoft" }
+kiota-file-manager-test = { module = "tz.co.asoft:kiota-file-manager-test", version.ref = "asoft" }
 kiota-numeral = { module = "tz.co.asoft:kiota-numeral", version.ref = "asoft" }
 
 ribix-charts = { module = "tz.co.asoft:ribix-charts", version.ref = "asoft" }
