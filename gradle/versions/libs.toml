@@ -1,5 +1,5 @@
 [versions]
-asoft = "3.0.15"
+asoft = "3.1.12"
 pione = "0.0.0"
 pitwo = "0.2.3"
 
@@ -77,6 +77,10 @@ bee-core = { module = "tz.co.asoft:bee-core", version.ref = "asoft" }
 
 kiota-url = { module = "tz.co.asoft:kiota-url", version.ref = "asoft" }
 kiota-sse = { module = "tz.co.asoft:kiota-sse", version.ref = "asoft" }
+kiota-file-manager-core = { module = "tz.co.asoft:kiota-file-manager-core", version.ref = "asoft" }
+kiota-file-manager-system = { module = "tz.co.asoft:kiota-file-manager-system", version.ref = "asoft" }
+kiota-file-manager-test = { module = "tz.co.asoft:kiota-file-manager-test", version.ref = "asoft" }
+kiota-file-compose = { module = "tz.co.asoft:kiota-file-compose", version.ref = "asoft" }
 kiota-numeral = { module = "tz.co.asoft:kiota-numeral", version.ref = "asoft" }
 
 ribix-charts = { module = "tz.co.asoft:ribix-charts", version.ref = "asoft" }
@@ -141,6 +145,9 @@ majestic-core = { module = "tz.co.asoft:majestic-core", version.ref = "asoft" }
 majestic-theme = { module = "tz.co.asoft:majestic-theme", version.ref = "asoft" }
 majestic-table = { module = "tz.co.asoft:majestic-table", version.ref = "asoft" }
 majestic-graphs = { module = "tz.co.asoft:majestic-graphs", version.ref = "asoft" }
+majestic-drawers = { module = "tz.co.asoft:majestic-drawers", version.ref = "asoft" }
+majestic-screen = { module = "tz.co.asoft:majestic-screen", version.ref = "asoft" }
+majestic-loaders = { module = "tz.co.asoft:majestic-loaders", version.ref = "asoft" }
 majestic-input-core = { module = "tz.co.asoft:majestic-input-core", version.ref = "asoft" }
 majestic-input-text = { module = "tz.co.asoft:majestic-input-text", version.ref = "asoft" }
 majestic-input-choice = { module = "tz.co.asoft:majestic-input-choice", version.ref = "asoft" }
