@@ -153,6 +153,7 @@ majestic-input-text = { module = "tz.co.asoft:majestic-input-text", version.ref 
 majestic-input-choice = { module = "tz.co.asoft:majestic-input-choice", version.ref = "asoft" }
 majestic-input-color = { module = "tz.co.asoft:majestic-input-color", version.ref = "asoft" }
 majestic-input-phone = { module = "tz.co.asoft:majestic-input-phone", version.ref = "asoft" }
+majestic-input-chrono = { module = "tz.co.asoft:majestic-input-chrono", version.ref = "asoft" }
 
 epsilon-core = { module = "tz.co.asoft:epsilon-core", version.ref = "asoft" }
 epsilon-fields = { module = "tz.co.asoft:epsilon-fields", version.ref = "asoft" }
