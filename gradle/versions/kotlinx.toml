@@ -2,7 +2,7 @@
 atomicfu = "0.27.0" # "0.23.1" # https://maven.pkg.jetbrains.space/kotlin/p/wasm/experimental/org/jetbrains/kotlinx/atomicfu/
 coroutines = "1.8.0" # "1.7.3"
 serialization = "1.6.2"
-datetime = "0.6.1" # "0.5.0"
+datetime = "0.6.2" # "0.5.0"
 toml = "0.3.6"
 html = "0.11.0"
 yaml = "0.12.0"
