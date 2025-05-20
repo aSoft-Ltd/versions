@@ -2,6 +2,7 @@
 kotlin = "2.1.21" # "2.2.0-RC" # "2.1.20"
 compose = "1.8.0"
 compose-compiler = "1.5.11-kt-2.0.0-RC1"
+compose-hot-reload = "1.0.0-alpha10"
 dokka = "1.9.0"
 
 [libraries]
@@ -13,10 +14,12 @@ compose-ui-test-manifest = { module = "androidx.compose.ui:ui-test-manifest", ve
 root-multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
 root-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 root-compiler-compose = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
+root-compose-hot-reload = { id= "org.jetbrains.compose.hot-reload", version.ref = "compose-hot-reload" }
 root-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
 
 multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
 serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
 js = { id = "org.jetbrains.kotlin.js", version.ref = "kotlin" }
 compose = { id = "org.jetbrains.compose", version.ref = "compose" }
+compose-hot-reload = { id= "org.jetbrains.compose.hot-reload", version.ref = "compose-hot-reload" }
 dokka = { id = "org.jetbrains.dokka", version.ref = "dokka" }
