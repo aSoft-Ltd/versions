@@ -148,11 +148,13 @@ majestic-graphs = { module = "tz.co.asoft:majestic-graphs", version.ref = "asoft
 majestic-drawers = { module = "tz.co.asoft:majestic-drawers", version.ref = "asoft" }
 majestic-screen = { module = "tz.co.asoft:majestic-screen", version.ref = "asoft" }
 majestic-loaders = { module = "tz.co.asoft:majestic-loaders", version.ref = "asoft" }
+majestic-overlays = { module = "tz.co.asoft:majestic-overlays", version.ref = "asoft" }
 majestic-input-core = { module = "tz.co.asoft:majestic-input-core", version.ref = "asoft" }
 majestic-input-text = { module = "tz.co.asoft:majestic-input-text", version.ref = "asoft" }
 majestic-input-choice = { module = "tz.co.asoft:majestic-input-choice", version.ref = "asoft" }
 majestic-input-color = { module = "tz.co.asoft:majestic-input-color", version.ref = "asoft" }
 majestic-input-phone = { module = "tz.co.asoft:majestic-input-phone", version.ref = "asoft" }
+majestic-input-chrono = { module = "tz.co.asoft:majestic-input-chrono", version.ref = "asoft" }
 
 epsilon-core = { module = "tz.co.asoft:epsilon-core", version.ref = "asoft" }
 epsilon-fields = { module = "tz.co.asoft:epsilon-fields", version.ref = "asoft" }
