@@ -6,9 +6,6 @@ client-core = { module = "io.ktor:ktor-client-core", version.ref = "ktor" }
 client-cio = { module = "io.ktor:ktor-client-cio", version.ref = "ktor" }
 client-js = { module = "io.ktor:ktor-client-js", version.ref = "ktor" }
 client-darwin = { module = "io.ktor:ktor-client-darwin", version.ref = "ktor" }
-client-apache = { module = "io.ktor:ktor-client-apache", version.ref = "ktor" }
-client-java = { module = "io.ktor:ktor-client-java", version.ref = "ktor" }
-client-jetty = { module = "io.ktor:ktor-client-jetty", version.ref = "ktor" }
 http = { module = "io.ktor:ktor-http", version.ref = "ktor" }
 html = { module = "io.ktor:ktor-server-html-builder", version.ref = "ktor" }
 
