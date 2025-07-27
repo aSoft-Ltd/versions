@@ -1,6 +1,6 @@
 [versions]
-kotlin = "2.1.21" # "2.2.0-RC" # "2.1.20"
-compose = "1.8.0"
+kotlin = "2.2.0" # "2.1.21" # "2.2.0-RC" # "2.1.20"
+compose = "1.8.2" # "1.8.0"
 compose-compiler = "1.5.11-kt-2.0.0-RC1"
 compose-hot-reload = "1.0.0-alpha10"
 dokka = "1.9.0"
