@@ -1,0 +1,8 @@
+[versions]
+mosaic = "0.17.0"
+
+[libraries]
+mosaic-runtime = { module = "com.jakewharton.mosaic:mosaic-runtime", version.ref = "mosaic" }
+
+[plugins]
+mosaic = { id = "com.jakewharton.mosaic", version.ref = "mosaic" }
