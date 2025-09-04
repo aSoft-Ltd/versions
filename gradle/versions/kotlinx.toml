@@ -11,15 +11,17 @@ cli = "0.3.6" # "0.3.5"
 bson = "0.7.0" # "0.5.0"
 coil = "3.3.0" # "3.0.0-rc01"
 browser = "0.3"
+rpc = "0.9.1"
 
 [libraries]
-cli = { module="org.jetbrains.kotlinx:kotlinx-cli", version.ref = "cli" }
+cli = { module = "org.jetbrains.kotlinx:kotlinx-cli", version.ref = "cli" }
 
 atomicfu = { module = "org.jetbrains.kotlinx:atomicfu", version.ref = "atomicfu" }
 
 coroutines-core = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version.ref = "coroutines" }
 coroutines-test = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-test", version.ref = "coroutines" }
 coroutines-android = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-android", version.ref = "coroutines" }
+coroutines-reactor = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-reactor", version.ref = "coroutines" }
 html = { module = "org.jetbrains.kotlinx:kotlinx-html", version.ref = "html" }
 
 serialization-core = { module = "org.jetbrains.kotlinx:kotlinx-serialization-core", version.ref = "serialization" }
@@ -29,8 +31,15 @@ serialization-bson = { module = "com.github.jershell:kbson", version.ref = "bson
 serialization-yaml = { module = "net.mamoe.yamlkt:yamlkt", version.ref = "yaml" }
 serialization-toml = { module = "net.peanuuutz.tomlkt:tomlkt", version.ref = "toml" }
 
+rpc-core = { module = "org.jetbrains.kotlinx:kotlinx-rpc-core", version.ref = "rpc" }
+rpc-krpc-client-core = { module = "org.jetbrains.kotlinx:kotlinx-rpc-krpc-client", version.ref = "rpc" }
+rpc-krpc-server-server = { module = "org.jetbrains.kotlinx:kotlinx-rpc-krpc-server", version.ref = "rpc" }
+rpc-krpc-client-ktor = { module = "org.jetbrains.kotlinx:kotlinx-rpc-krpc-ktor-client", version.ref = "rpc" }
+rpc-krpc-server-ktor = { module = "org.jetbrains.kotlinx:kotlinx-rpc-krpc-ktor-server", version.ref = "rpc" }
+rpc-krpc-serialization-json = { module = "org.jetbrains.kotlinx:kotlinx-rpc-krpc-serialization-json", version.ref = "rpc" }
+
 datetime = { module = "org.jetbrains.kotlinx:kotlinx-datetime", version.ref = "datetime" }
-browser =  { module = "org.jetbrains.kotlinx:kotlinx-browser", version.ref = "browser" }
+browser = { module = "org.jetbrains.kotlinx:kotlinx-browser", version.ref = "browser" }
 
 coil-compose = { module = "io.coil-kt.coil3:coil-compose", version.ref = "coil" }
 coil-network-ktor2 = { module = "io.coil-kt.coil3:coil-network-ktor2", version.ref = "coil" }
@@ -38,3 +47,4 @@ coil-network-ktor3 = { module = "io.coil-kt.coil3:coil-network-ktor3", version.r
 
 [plugins]
 atomicfu = { id = "org.jetbrains.kotlinx.atomicfu", version.ref = "atomicfu" }
+rpc = { id = "org.jetbrains.kotlinx.rpc.plugin", version.ref = "rpc" }
