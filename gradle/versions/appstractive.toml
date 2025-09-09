@@ -1,0 +1,8 @@
+[versions]
+appstractive = "1.2.1"
+
+[libraries]
+jwt-core = { module = "com.appstractive:jwt-kt", version.ref = "appstractive" }
+jwt-rsa = { module = "com.appstractive:jwt-rsa-kt", version.ref = "appstractive" }
+jwt-hmac = { module = "com.appstractive:jwt-hmac-kt", version.ref = "appstractive" }
+jwt-ecdsa = { module = "com.appstractive:jwt-ecdsa-kt", version.ref = "appstractive" }
