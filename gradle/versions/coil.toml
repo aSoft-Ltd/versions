@@ -1,0 +1,7 @@
+[versions]
+coil = "3.3.0"
+
+[libraries]
+compose =  { module = "io.coil-kt.coil3:coil-compose", version.ref = "coil" }
+network-okhttp =  { module = "io.coil-kt.coil3:coil-network-okhttp", version.ref = "coil" }
+network-ktor =  { module = "io.coil-kt.coil3:coil-network-ktor3", version.ref = "coil" }
