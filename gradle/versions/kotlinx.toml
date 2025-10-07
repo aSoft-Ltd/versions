@@ -1,17 +1,17 @@
 [versions]
-atomicfu = "0.29.0" # "0.27.0" # "0.23.1" # https://maven.pkg.jetbrains.space/kotlin/p/wasm/experimental/org/jetbrains/kotlinx/atomicfu/
-coroutines = "1.10.2" # "1.8.0" # "1.7.3"
-serialization = "1.9.0" # "1.6.2"
-ser-build-logic = "1.8.1" # Serialization for build logic
-datetime = "0.7.1-0.6.x-compat" # "0.6.2" # "0.5.0"
-toml = "0.5.0" # "0.3.6"
-html = "0.12.0" # "0.11.0"
-yaml = "0.13.0" # "0.12.0"
-cli = "0.3.6" # "0.3.5"
-bson = "0.7.0" # "0.5.0"
-coil = "3.3.0" # "3.0.0-rc01"
+atomicfu = "0.29.0" # https://maven.pkg.jetbrains.space/kotlin/p/wasm/experimental/org/jetbrains/kotlinx/atomicfu/
+coroutines = "1.10.2"
+serialization = "1.9.0"
+ser-build-logic = "1.8.1"
+datetime = "0.7.1-0.6.x-compat"
+toml = "0.5.0"
+html = "0.12.0"
+yaml = "0.13.0"
+cli = "0.3.6"
+bson = "0.7.0"
+coil = "3.3.0"
 browser = "0.5.0"
-rpc = "0.10.0" # "0.9.1"
+rpc = "0.10.0"
 
 [libraries]
 cli = { module = "org.jetbrains.kotlinx:kotlinx-cli", version.ref = "cli" }
