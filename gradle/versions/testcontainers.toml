@@ -1,5 +1,7 @@
 [versions]
-mongodb = "1.19.1"
+testcontainers = "1.21.3"
 
 [libraries]
-mongodb = { module = "org.testcontainers:mongodb", version.ref = "mongodb" }
+core = { module = "org.testcontainers:testcontainers", version.ref = "testcontainers" }
+mongodb = { module = "org.testcontainers:mongodb", version.ref = "testcontainers" }
+mysql = { module = "org.testcontainers:mysql", version.ref = "testcontainers" }
