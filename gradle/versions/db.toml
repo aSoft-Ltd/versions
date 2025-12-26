@@ -1,5 +1,9 @@
 [versions]
 mongo = "4.10.2"
+r2dbc-mysql = "1.4.1"
+r2dbc-postgresql = "1.1.1.RELEASE"
 
 [libraries]
 mongo =  { module = "org.mongodb:mongodb-driver-kotlin-coroutine", version.ref = "mongo" }
+r2dbc-mysql = { module = "io.asyncer:r2dbc-mysql", version.ref = "r2dbc-mysql" }
+r2dbc-postgresql = { module = "org.postgresql:r2dbc-postgresql", version.ref = "r2dbc-postgresql"}

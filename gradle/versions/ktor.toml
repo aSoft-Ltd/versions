@@ -1,5 +1,5 @@
 [versions]
-ktor = "3.2.2" # "3.0.0-beta-2" # "2.3.12" # "2.3.5"
+ktor = "3.3.3" #"3.2.2" # "3.0.0-beta-2" # "2.3.12" # "2.3.5"
 
 [libraries]
 client-core = { module = "io.ktor:ktor-client-core", version.ref = "ktor" }
@@ -12,5 +12,6 @@ html = { module = "io.ktor:ktor-server-html-builder", version.ref = "ktor" }
 
 server-core = { module = "io.ktor:ktor-server-core", version.ref = "ktor" }
 server-cio = { module = "io.ktor:ktor-server-cio", version.ref = "ktor" }
+server-netty = { module = "io.ktor:ktor-server-netty", version.ref = "ktor" }
 server-cors = { module = "io.ktor:ktor-server-cors", version.ref = "ktor" }
 server-test-host = { module = "io.ktor:ktor-server-test-host", version.ref = "ktor" }
