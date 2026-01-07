@@ -79,7 +79,7 @@ kiota-url = { module = "tz.co.asoft:kiota-url", version.ref = "asoft" }
 kiota-sse = { module = "tz.co.asoft:kiota-sse", version.ref = "asoft" }
 kiota-file-manager-core = { module = "tz.co.asoft:kiota-file-manager-core", version.ref = "asoft" }
 kiota-file-manager-system = { module = "tz.co.asoft:kiota-file-manager-system", version.ref = "asoft" }
-kiota-file-manager-test = { module = "tz.co.asoft:kiota-file-manager-test", version.ref = "asoft" }
+kiota-file-manager-virtual = { module = "tz.co.asoft:kiota-file-manager-virtual", version.ref = "asoft" }
 kiota-file-compose = { module = "tz.co.asoft:kiota-file-compose", version.ref = "asoft" }
 kiota-numeral = { module = "tz.co.asoft:kiota-numeral", version.ref = "asoft" }
 kiota-connection-core = { module = "tz.co.asoft:kiota-connection-core", version.ref = "asoft" }
