@@ -1,0 +1,11 @@
+[versions]
+testballoon = "0.8.0-K2.3.0"
+
+[libraries]
+testballoon-framework-core = { module = "de.infix.testBalloon:testBalloon-framework-core", version.ref = "testballoon" }
+
+testballoon-integration-kotest-assertions = { module = "de.infix.testBalloon:testBalloon-integration-kotest-assertions", version.ref = "testballoon" }
+testballoon-integration-blocking-detection = { module = "de.infix.testBalloon:testBalloon-integration-blocking-detection", version.ref = "testballoon" }
+
+[plugins]
+testballoon = { id = "de.infix.testBalloon", version.ref = "testballoon" }
