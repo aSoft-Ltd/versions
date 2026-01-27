@@ -162,6 +162,7 @@ majestic-users = { module = "tz.co.asoft:majestic-users", version.ref = "asoft" 
 majestic-payments = { module = "tz.co.asoft:majestic-payments", version.ref = "asoft" }
 majestic-shared = { module = "tz.co.asoft:majestic-shared", version.ref = "asoft" }
 majestic-icons = { module = "tz.co.asoft:majestic-icons", version.ref = "asoft" }
+majestic-layouts = { module = "tz.co.asoft:majestic-layouts", version.ref = "asoft" }
 
 epsilon-core = { module = "tz.co.asoft:epsilon-core", version.ref = "asoft" }
 epsilon-fields = { module = "tz.co.asoft:epsilon-fields", version.ref = "asoft" }
