@@ -214,6 +214,14 @@ captain-router-react-dom = { module = "tz.co.asoft:captain-router-react-dom", ve
 captain-router-compose-core = { module = "tz.co.asoft:captain-router-compose-core", version.ref = "asoft" }
 captain-router-compose-html = { module = "tz.co.asoft:captain-router-compose-html", version.ref = "asoft" }
 
+art-core = { module = "tz.co.asoft:art-core", version.ref = "asoft" }
+art-markdown = { module = "tz.co.asoft:art-markdown", version.ref = "asoft" }
+art-builder = { module = "tz.co.asoft:art-builder", version.ref = "asoft" }
+
+registry-core = { module = "tz.co.asoft:registry-core", version.ref = "asoft" }
+registry-github = { module = "tz.co.asoft:registry-github", version.ref = "asoft" }
+registry-html = { module = "tz.co.asoft:registry-html", version.ref = "asoft" }
+
 status-core = { module = "tz.co.asoft:status-core", version.ref = "asoft" }
 status-scenes = { module = "tz.co.asoft:status-scenes", version.ref = "asoft" }
 
