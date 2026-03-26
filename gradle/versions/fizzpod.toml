@@ -1,0 +1,5 @@
+[versions]
+release = "3.2.0" # "0.25.2" # https://vanniktech.github.io/gradle-maven-publish-plugin/central/
+
+[plugins]
+github-release = { id = "com.fizzpod.github-release", version.ref = "release" }
