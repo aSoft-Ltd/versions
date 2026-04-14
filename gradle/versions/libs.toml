@@ -216,6 +216,7 @@ captain-router-compose-html = { module = "tz.co.asoft:captain-router-compose-htm
 
 art-core = { module = "tz.co.asoft:art-core", version.ref = "asoft" }
 art-markdown = { module = "tz.co.asoft:art-markdown", version.ref = "asoft" }
+art-html = { module = "tz.co.asoft:art-html", version.ref = "asoft" }
 art-builder = { module = "tz.co.asoft:art-builder", version.ref = "asoft" }
 
 registry-core = { module = "tz.co.asoft:registry-core", version.ref = "asoft" }
