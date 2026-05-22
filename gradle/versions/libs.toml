@@ -183,7 +183,7 @@ hormone-core = { module = "tz.co.asoft:hormone-core", version.ref = "asoft" }
 kommerce-core = { module = "tz.co.asoft:kommerce-core", version.ref = "asoft" }
 
 klip-api = { module = "tz.co.asoft:klip-api", version.ref = "asoft" }
-klip-browser = { module = "tz.co.asoft:klip-browser", version.ref = "asoft" }
+klip-system = { module = "tz.co.asoft:klip-system", version.ref = "asoft" }
 klip-local = { module = "tz.co.asoft:klip-local", version.ref = "asoft" }
 
 yeti-core = { module = "tz.co.asoft:yeti-core", version.ref = "asoft" }
