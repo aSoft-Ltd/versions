@@ -1,8 +1,8 @@
 [versions]
 atomicfu = "0.31.0" # https://maven.pkg.jetbrains.space/kotlin/p/wasm/experimental/org/jetbrains/kotlinx/atomicfu/
 coroutines = "1.10.2"
-serialization = "1.10.0"
-ser-build-logic = "1.8.1"
+serialization = "1.11.0"
+ser-build-logic = "1.7.0"
 datetime = "0.7.1-0.6.x-compat"
 toml = "0.5.0"
 html = "0.12.0"
