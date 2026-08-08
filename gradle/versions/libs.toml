@@ -129,6 +129,7 @@ kost-presenters = { module = "tz.co.asoft:kost-presenters", version.ref = "asoft
 kost-api-core = { module = "tz.co.asoft:kost-api-core", version.ref = "asoft" }
 kost-sdk-core = { module = "tz.co.asoft:kost-sdk-core", version.ref = "asoft" }
 
+symphony-pagination = { module = "tz.co.asoft:symphony-pagination", version.ref = "asoft" }
 symphony-paginator = { module = "tz.co.asoft:symphony-paginator", version.ref = "asoft" }
 symphony-selector = { module = "tz.co.asoft:symphony-selector", version.ref = "asoft" }
 symphony-actions = { module = "tz.co.asoft:symphony-actions", version.ref = "asoft" }
